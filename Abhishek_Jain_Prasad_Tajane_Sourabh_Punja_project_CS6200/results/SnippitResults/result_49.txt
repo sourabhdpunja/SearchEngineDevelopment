@@ -1,0 +1,120 @@
+Query:49
+Document number:1152
+Rank:1
+Floating-Point Arithmetic with 84-Bit Numbers
+
+A classic and straightforward technique is
+presented which is not limited to the size or type 
+of number representation used or multiple precision arithmetic.
+
+
+
+
+
+Document number:1681
+Rank:2
+A macro flowchart of Easy 
+English is included, and an Appendix provides
+the printout of a <b>retrieval</b> demonstration.
+
+
+
+
+
+Document number:2795
+Rank:3
+<b>The</b> 
+model encompasses several diverse classes of linguistic
+<b>knowledge</b>, which include: (1) executable tests 
+of conceptual properties stored in discrimination nets;
+(2) <b>information</b> relating conceptual to syntactic 
+roles, stored in a word-sense dictionary, and (3) surface
+grammatical <b>knowledge</b>, stored in a formal grammar.
+
+
+
+
+
+Document number:2956
+Rank:4
+Among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a data type, the need for
+a simple notation for allowing types of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.
+
+
+
+
+
+Document number:3148
+Rank:5
+This is part of an ambitious
+program of development in advanced programming languages, and relations
+with other aspects of the project are also discussed.
+
+
+
+
+
+Document number:2138
+Rank:6
+A major feature which contributes 
+to the realization of these goals is a mechanism permitting
+the definition of the representation of all 
+data structures in terms of the access algorithm for elements of the structure.
+
+
+
+
+
+Document number:3082
+Rank:7
+Time, Clocks, and the Ordering of Events in a Distributed System
+
+<b>The</b> concept of one event happening before
+another in a distributed system is examined, and
+is shown to define a partial ordering of the events.
+
+
+
+
+
+Document number:1457
+Rank:8
+Advantages of these programming languages
+for the <b>retrieval</b> application are examined, 
+and suggestions are made for the design of programming
+facilities to aid in <b>information</b> <b>retrieval</b>.
+
+
+
+
+
+Document number:2829
+Rank:9
+<b>The</b> intensity of the pattern at each
+picture element is computed as a weighted average 
+of regions of the pattern definition function.
+
+
+
+
+
+Document number:2932
+Rank:10
+Complexity of Computations
+
+<b>The</b> framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.
+
+
+
+
+

@@ -1,0 +1,114 @@
+Query:16
+Document number:2616
+Rank:1
+Objectives of these 
+conversions are mainly program debugging and optimization
+in practice.
+
+
+
+
+
+Document number:2080
+Rank:2
+The Nucleus of a Multiprogramming System
+
+This paper describes the philosophy and structure of a multiprogramming system 
+that can be extended with a hierarchy of <b>operating</b> <b>systems</b> to suit diverse 
+requirements of program scheduling and resource allocation.
+
+
+
+
+
+Document number:1828
+Rank:3
+An example of such 
+a data base is a hierarchy of directories for an on-line
+file system.
+
+
+
+
+
+Document number:1747
+Rank:4
+Examples of applications
+of the criteria concern the reading of 
+a time-of-day clock,  the synchronization of parallel
+<b>processes</b>, protection in multiprogrammed <b>systems</b>, 
+and the assignment of capability indexes.
+
+
+
+
+
+Document number:1960
+Rank:5
+Process Management and Resource Sharing in the Multiaccess System ESOPE
+
+The main design principles of the multiaccess system ESOPE are described.
+
+
+
+
+
+Document number:2321
+Rank:6
+A focus on some of the problems is
+obtained in a discussion of a detailed specification 
+for a particular computer-communications system interface.
+
+
+
+
+
+Document number:2358
+Rank:7
+Here, the design and implementation 
+considerations of segmentation and sharing in Multics
+are first discussed under the assumption that all 
+information resides in large, segmented main memory.
+
+
+
+
+
+Document number:2070
+Rank:8
+A Formal System for Information Retrieval from Files
+
+CACM April, 1970
+
+Hsiao, D.
+Harary, F.
+
+CA700414 JB February 13, 1978  2:37 PM
+
+
+
+
+
+Document number:1410
+Rank:9
+Interarrival Statistics for Time Sharing Systems
+
+The optimization of time-shared system performance
+requires the description of the stochastic 
+<b>processes</b> governing the user inputs and the program activity.
+
+
+
+
+
+Document number:2570
+Rank:10
+It is shown that 
+different algorithms suggested in the literature vary significantly
+in execution time and that the B-schedule 
+of Coffman and Graham is near-optimal.
+
+
+
+
+

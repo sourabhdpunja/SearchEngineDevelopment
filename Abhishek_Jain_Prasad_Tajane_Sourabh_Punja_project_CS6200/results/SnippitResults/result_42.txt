@@ -1,0 +1,113 @@
+Query:42
+Document number:2289
+Rank:1
+In particular, several parallelized 
+algorithms are presented for the solution of certain
+spanning tree, distance, and path problems, with 
+direct applications to wire routing, PERT chart analysis,
+and the analysis of many types of networks.
+
+
+
+
+
+Document number:1805
+Rank:2
+These programs
+are actually proceeding intermittently and singly, 
+according to eligibility (readiness to proceed) and priority.
+
+
+
+
+
+Document number:2151
+Rank:3
+The TX-2 computer 
+at MIT Lincoln Laboratory was used for the implementation
+of such a system and the characteristics of 
+this implementation are reported.
+
+
+
+
+
+Document number:2283
+Rank:4
+Thinning Algorithms on Rectangular, Hexagonal, and Triangular Arrays
+
+In this report three thinning algorithms are
+developed: one each for use with rectangular, 
+hexagonal, and triangular arrays.
+
+
+
+
+
+Document number:2138
+Rank:5
+Prime design goals of the design are the
+ability to produce highly efficient object code, 
+to allow access to all relevant hardware features of
+the host machine, and to provide a rational means 
+by which to cope with the evolutionary nature of systems
+programs.
+
+
+
+
+
+Document number:3148
+Rank:6
+Based on primitive notions of module, message,
+and transaction key, the methodology is shown to be independent
+of particular languages and machines.
+
+
+
+
+
+Document number:3082
+Rank:7
+Time, Clocks, and the Ordering of Events in a Distributed System
+
+The concept of one event happening before
+another in a distributed system is examined, and
+is shown to define a partial ordering of the events.
+
+
+
+
+
+Document number:3124
+Rank:8
+Theorems exhibiting the relationships
+between the definitional systems are given and illustrated through graph
+representations.
+
+
+
+
+
+Document number:2932
+Rank:9
+Illustrative examples of practical 
+and theoretical significance are given.
+
+
+
+
+
+Document number:2940
+Rank:10
+Abstraction and Verification in Alphard: Defining
+and Specifying Iteration and Generators
+
+The Alphard "form" provides the programmer with
+a great deal of control over the implementation 
+of abstract data types.
+
+
+
+
+

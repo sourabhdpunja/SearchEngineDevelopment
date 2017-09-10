@@ -1,0 +1,121 @@
+Query:37
+Document number:2738
+Rank:1
+Use of the Concept of Transparency in the
+Design of Hierarchically Structured Systems
+
+This paper deals with the design of hierarchically
+structured programming systems.
+
+
+
+
+
+Document number:2289
+Rank:2
+A major challenge
+in the effective use of cellular arrays for the 
+solution of graph problems is the determination of algorithms
+that exploit the possibilities for parallelism, 
+especially for problems whose solutions appear to be inherently
+serial.
+
+
+
+
+
+Document number:2941
+Rank:3
+The specific topics addressed are: module structure 
+and its use in defining abstractions, <b>data</b>-structuring
+facilities in Mesa, an equivalence algorithm for 
+<b><b>type</b>s</b> and <b>type</b> coercions, the benefits of the <b>type</b> <b>system</b>
+and why it is breached occasionally, and the 
+difficulty of making the treatment of variant records safe.
+
+
+
+
+
+Document number:2932
+Rank:4
+Complexity of Computations
+
+The framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.
+
+
+
+
+
+Document number:2195
+Rank:5
+The relation
+between the structure of the figure of merit and 
+the complexity of the optimization process is then discussed.
+
+
+
+
+
+Document number:2950
+Rank:6
+A
+criterion for the implementation efficiency of an 
+algorithm is developed and results in the definition
+of time-invariant algorithms, which include most 
+of the commonly implemented ones.
+
+
+
+
+
+Document number:1563
+Rank:7
+A Method for Finding Hamilton Paths and Knight's Tours
+
+The use of Warnsdorff's rule for finding a
+knight's tour is generalized and applied to the 
+problem of finding a Hamilton path in a graph.
+
+
+
+
+
+Document number:2892
+Rank:8
+A Study of Line Overhead in the Arpanet
+
+The form, extent, and effect of the communication line
+overhead in the ARPANET are considered.
+
+
+
+
+
+Document number:1529
+Rank:9
+In the course of the analysis, a substructure
+was discovered which has relevance to the 
+relative performance of the two algorithms and to their
+absolute performance as compared with a standard 
+primal-Simplex solution without decomposition.
+
+
+
+
+
+Document number:2177
+Rank:10
+If w denotes the word length of the machine
+employed, the storage (in machine words) required 
+for a graph with n nodes and m edges increases essentially
+as 2(m+n) in case (i), or (n^2)/win case 
+(ii).
+
+
+
+
+

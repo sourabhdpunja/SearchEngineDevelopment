@@ -1,0 +1,114 @@
+Query:21
+Document number:1429
+Rank:1
+The method is suited to both hand and computer 
+calculation.
+
+
+
+
+
+Document number:2570
+Rank:2
+It is shown that 
+different <b>algorithms</b> suggested in the literature vary significantly
+in execution time and that the B-schedule 
+of Coffman and Graham is near-optimal.
+
+
+
+
+
+Document number:3139
+Rank:3
+Finally an exact method is given which performs better
+than the Randall-Brown algorithm and is able to color larger
+graphs, and the new heuristic methods, the classical methods, and
+the exact method are compared.
+
+
+
+
+
+Document number:2812
+Rank:4
+Computer-aided 
+analysis consists of a set of procedures and computer
+programs specifically designed to aid in the process 
+of applications software design, computer selection
+and performance evaluation.
+
+
+
+
+
+Document number:2932
+Rank:5
+Illustrative examples of practical 
+and theoretical significance are given.
+
+
+
+
+
+Document number:2195
+Rank:6
+Due to the
+global approach, greater flexibility and adequacy 
+in the particular problem is achieved.
+
+
+
+
+
+Document number:2950
+Rank:7
+Various classes of scheduling <b>algorithms</b>
+are defined and related to existing <b>algorithms</b>.
+
+
+
+
+
+Document number:1959
+Rank:8
+An Interrupt Based Organization for Management Information Systems
+
+A programming structure, language constructs, and a supervisory system 
+organization are proposed
+for the design and coding of large shared data base systems.
+
+
+
+
+
+Document number:1719
+Rank:9
+A Methodology for Calculating and
+Optimizing Real-Time System Performance
+
+The continually increasing size, complexity,
+number of types, and cost of data processing systems 
+are causing serious re-examination within government
+and industry of the criteria for and methods of 
+calculating and optimizing data processing system cost
+and performance.
+
+
+
+
+
+Document number:2603
+Rank:10
+The Equivalence of Reducing Transition
+Languages and Deterministic Languages
+
+The class of reducing transition languages
+introduced by Eickel, Paul, Bauer, and Samelson 
+was shown by Morris to be a proper superclass of the
+simple precedence languages.
+
+
+
+
+

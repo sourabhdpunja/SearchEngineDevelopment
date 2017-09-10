@@ -1,0 +1,122 @@
+Query:36
+Document number:2630
+Rank:1
+These <b>algorithm</b>s generalize the Floyd
+<b>algorithm</b> and the Dantzig <b>algorithm</b> for finding 
+the shortest path between every pair of vertices in a directed graph.
+
+
+
+
+
+Document number:1265
+Rank:2
+On the Relative Efficiencies of Context-Free Grammar Recognizers
+
+A number of diverse <b>recognition</b> procedures
+that have been proposed for <b>parsing</b> sentences with 
+respect to a <b>context-free</b> grammar are described in this
+paper by means of a common device.
+
+
+
+
+
+Document number:2289
+Rank:3
+A major challenge
+in the effective use of cellular arrays for the 
+solution of graph problems is the determination of algorithms
+that exploit the possibilities for parallelism, 
+especially for problems whose solutions appear to be inherently
+serial.
+
+
+
+
+
+Document number:2340
+Rank:4
+A Boolean Matrix Method for the Computation
+of Linear Precedence Functions
+
+A modified version of Bell's Boolean matrix
+method for the computation of linear precedence 
+functions associated with a conflict-free matrix of
+precedence relations is given.
+
+
+
+
+
+Document number:2195
+Rank:5
+In this technique the heuristic 
+of the problem is not embedded in the <b>recognition</b> <b>algorithm</b>
+but is expressed in a figure of merit.
+
+
+
+
+
+Document number:2616
+Rank:6
+CACM August, 1974
+
+Cavouras, J. C.
+
+decision tables, program optimization, debugging,
+semantics, theory of programming, systems analysis
+
+4.19 4.42 4.43 5.21 5.29
+
+CA740808 JB January 17, 1978  9:43 AM
+
+
+
+
+
+Document number:2950
+Rank:7
+A
+criterion for the implementation efficiency of an 
+<b>algorithm</b> is developed and results in the definition
+of time-invariant <b>algorithm</b>s, which include most 
+of the commonly implemented ones.
+
+
+
+
+
+Document number:2883
+Rank:8
+An Application of Heuristic Search Methods to Edge and Contour Detection
+
+This paper presents a method for detecting edges
+and contours in noisy pictures.
+
+
+
+
+
+Document number:1529
+Rank:9
+Decomposition Programming An Analysis of Matrix Substructure 
+
+A petroleum blending problem was analyzed in order
+to compare the primal and primal-dual decomposition 
+algorithms.
+
+
+
+
+
+Document number:2892
+Rank:10
+Similar results are derived for a recently 
+proposed network protocol and compared with those for the current system.
+
+
+
+
+

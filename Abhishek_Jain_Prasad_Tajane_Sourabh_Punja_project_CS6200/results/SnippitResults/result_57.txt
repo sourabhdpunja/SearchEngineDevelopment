@@ -1,0 +1,126 @@
+Query:57
+Document number:2289
+Rank:1
+<b>A</b> major challenge
+in the effective use of cellular arrays for the 
+solution of graph problems is the determination of algorithms
+that exploit the possibilities for parallelism, 
+especially for problems whose solutions appear to be inherently
+serial.
+
+
+
+
+
+Document number:2956
+Rank:2
+Among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a data type, the need for
+a simple notation for allowing types of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.
+
+
+
+
+
+Document number:2470
+Rank:3
+The
+questions of local and global environments and of 
+various modes of function calling and parameter passing
+are touched upon.
+
+
+
+
+
+Document number:3148
+Rank:4
+Based on primitive notions of module, message,
+and transaction key, the methodology is shown to be independent
+of particular languages and machines.
+
+
+
+
+
+Document number:2265
+Rank:5
+This paper attempts to isolate 
+the notion of type checking and presents a partial
+solution to the type checking problem based on the 
+notions of abstraction and application of functions.
+
+
+
+
+
+Document number:1457
+Rank:6
+<b>A</b> variety 
+of data representations which have been used to describe
+structured information are then examined, and 
+the characteristics of various processing languages are
+outlined in the light of the procedures requiring 
+implementation.
+
+
+
+
+
+Document number:2138
+Rank:7
+<b>A</b> major feature which contributes 
+to the realization of these goals is a mechanism permitting
+the definition of the representation of all 
+data structures in terms of the access algorithm for elements of the structure.
+
+
+
+
+
+Document number:2283
+Rank:8
+Pictorial 
+results produced by each of the algorithms are presented
+and the relative performances of the algorithms 
+are compared.
+
+
+
+
+
+Document number:3077
+Rank:9
+Inherent 
+defects at the most basic level cause them to be both
+fat and weak: their primitive word-at-a-time <b>style</b> 
+of <b>programming</b> inherited from their common ancestor-the
+von <b>Neumann</b> computer, their close coupling off 
+semantics to state transitions, their division of <b>programming</b>
+into a world of expressions and a world 
+of statements, their inability to effectively use powerful
+combining forms for building new programs 
+from existing ones, and their lack of useful mathematical
+properties for reasoning about programs.
+
+
+
+
+
+Document number:2829
+Rank:10
+The amount of light coming from a given direction is
+modeled in a similar manner to the texture mapping 
+and then added to the intensity obtained from the texture
+mapping.
+
+
+
+
+

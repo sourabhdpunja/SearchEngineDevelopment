@@ -1,0 +1,119 @@
+Query:62
+Document number:1457
+Rank:1
+Advantages of these programming languages
+for the retrieval application are examined, 
+and suggestions are made for the design of programming
+facilities to aid in information retrieval.
+
+
+
+
+
+Document number:2289
+Rank:2
+In particular, several parallelized 
+algorithms are presented for the solution of certain
+spanning tree, distance, and path problems, with 
+direct applications to wire routing, PERT chart analysis,
+and the analysis of many types of networks.
+
+
+
+
+
+Document number:1811
+Rank:3
+A
+program for the determination of the distribution 
+of current in an electrical network was written for a
+<b>parallel</b>-processor computing system, and execution 
+of this program was simulated.
+
+
+
+
+
+Document number:2664
+Rank:4
+Parallelism in Tape-Sorting
+
+Two methods for employing parallelism in tape-sorting
+are presented.
+
+
+
+
+
+Document number:3148
+Rank:5
+High Level Programming for Distributed Computing
+
+Programming for distributed and other loosely coupled systems
+is a problem of growing interest.
+
+
+
+
+
+Document number:2138
+Rank:6
+This language
+is designed so as to be especially suitable 
+for use in writing production software systems for a
+specific machine (the PDP-10): compilers, operating 
+systems, etc.
+
+
+
+
+
+Document number:2956
+Rank:7
+Among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a data type, the need for
+a simple notation for allowing types of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.
+
+
+
+
+
+Document number:2616
+Rank:8
+Extensions to the <b>theory</b> of computation 
+and computability are suggested.
+
+
+
+
+
+Document number:1747
+Rank:9
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+
+The designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.
+
+
+
+
+
+Document number:2283
+Rank:10
+Thinning Algorithms on Rectangular, Hexagonal, and Triangular Arrays
+
+In this report three thinning algorithms are
+developed: one each for use with rectangular, 
+hexagonal, and triangular arrays.
+
+
+
+
+

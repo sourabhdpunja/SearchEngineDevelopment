@@ -1,0 +1,121 @@
+Query:23
+Document number:2616
+Rank:1
+Extensions to the theory of computation 
+and computability are suggested.
+
+
+
+
+
+Document number:2570
+Rank:2
+It is shown that 
+different <b>algorithms</b> suggested in the literature vary significantly
+in execution time and that the B-schedule 
+of Coffman and Graham is near-optimal.
+
+
+
+
+
+Document number:2578
+Rank:3
+Self-stabilizing Systems in Spite of <b>Distributed</b> Control
+
+CACM November, 1974
+
+Dijkstra, E. W.
+
+multiprocessing, networks, self-stabilization, synchronization,
+mutual exclusion, robustness, sharing, 
+error recovery, distributed control, harmonious cooperation, self-repair
+
+4.32
+
+CA741106 JB January 16,1978  10:18 AM
+
+
+
+
+
+Document number:2080
+Rank:4
+The Nucleus of a Multiprogramming System
+
+This paper describes the philosophy and structure of a multiprogramming system 
+that can be extended with a hierarchy of operating systems to suit diverse 
+requirements of program scheduling and resource allocation.
+
+
+
+
+
+Document number:2812
+Rank:5
+The analyzed problem statement 
+was translated to the form necessary for use by the
+SODA (Systems Optimization and Design Algorithm)
+program for the generation of alternative specifications
+of program modules and logical database <b>structures</b>.
+
+
+
+
+
+Document number:2950
+Rank:6
+Various classes of scheduling <b>algorithms</b>
+are defined and related to existing <b>algorithms</b>.
+
+
+
+
+
+Document number:2195
+Rank:7
+Due to the
+global approach, greater flexibility and adequacy 
+in the particular problem is achieved.
+
+
+
+
+
+Document number:1959
+Rank:8
+The
+bases for this organization are a generalized interrupt structure
+and the newly introduced concept of "file tagging," which is the
+process of associating program <b>structures</b> and interrupt generating
+conditions with items in the data base.
+
+
+
+
+
+Document number:2188
+Rank:9
+Each subsystem is chosen from large
+numbers of alternatives; the selection is based 
+on considerations such as system response time, system
+cost, and the distribution of data storage and 
+processing between the graphics processor and its supporting
+data processing system.
+
+
+
+
+
+Document number:2849
+Rank:10
+Ethernet: <b>Distributed</b> Packet Switching for Local Computer Networks
+
+Ethernet is a branching broadcast communication
+system for carrying digital data packets among 
+locally distributed <b>computing</b> stations.
+
+
+
+
+

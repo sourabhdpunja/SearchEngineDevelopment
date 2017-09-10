@@ -1,0 +1,119 @@
+Query:31
+Document number:2125
+Rank:1
+The ordered sequence of contour points and the connection graph of
+the <b><b><b>image</b></b></b> are first obtained by a modified Ledley algorithm in one
+<b><b><b>image</b></b></b> scan.
+
+
+
+
+
+Document number:2616
+Rank:2
+Extensions to the theory of computation 
+and computability are suggested.
+
+
+
+
+
+Document number:1928
+Rank:3
+The main results obtained 
+are a clear and useful separation of structural and behavioral
+model description, a reduction of manual 
+tasks in converting Boolean logic into a structural model,
+the elimination of manual processes in achieving 
+exclusive simulation of activity, an event-scheduling
+technique which does not deteriorate in economy
+as the event queue grows in length, and a simulation
+procedure which deals effectively with any mixture 
+of serial and simultaneous activities.
+
+
+
+
+
+Document number:2892
+Rank:4
+A Study of Line Overhead in the Arpanet
+
+The form, extent, and effect of the communication line
+overhead in the ARPANET are considered.
+
+
+
+
+
+Document number:2950
+Rank:5
+A
+criterion for the implementation efficiency of an 
+algorithm is developed and results in the definition
+of time-invariant algorithms, which <b>include</b> most 
+of the commonly implemented ones.
+
+
+
+
+
+Document number:2321
+Rank:6
+On the Interface Between Computers and Data Communications Systems
+
+Future systems that combine computers, <b><b>digital</b></b>
+terminals, and communications equipment present 
+design optimization problems that require reconsideration
+of the traditional functional responsibilities 
+of the respective subsystems.
+
+
+
+
+
+Document number:1959
+Rank:7
+The
+bases for this organization are a generalized interrupt structure
+and the newly introduced concept of "file tagging," which is the
+process of associating program structures and interrupt generating
+conditions with items in the data base.
+
+
+
+
+
+Document number:2570
+Rank:8
+It is shown that 
+different algorithms suggested in the literature vary significantly
+in execution time and that the B-schedule 
+of Coffman and Graham is near-optimal.
+
+
+
+
+
+Document number:2812
+Rank:9
+The analyzed problem statement 
+was translated to the form necessary for use by the
+SODA (Systems Optimization and Design Algorithm)
+program for the generation of alternative specifications
+of program modules and logical database structures.
+
+
+
+
+
+Document number:3047
+Rank:10
+We achieve the required alignment by matching the real
+<b><b><b>image</b></b></b> with a synthetic <b><b><b>image</b></b></b> obtained from a surface 
+model and known positions of the light sources.
+
+
+
+
+

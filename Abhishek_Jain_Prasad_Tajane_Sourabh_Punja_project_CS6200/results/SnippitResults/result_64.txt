@@ -1,0 +1,119 @@
+Query:64
+Document number:2289
+Rank:1
+In particular, several parallelized 
+algorithms are presented for the solution of certain
+spanning tree, distance, and path problems, with 
+direct applications to wire routing, PERT chart analysis,
+and the analysis of many types of networks.
+
+
+
+
+
+Document number:1457
+Rank:2
+Data Manipulation and Programming Problems
+in Automatic Information Retrieval
+
+Automatic information retrieval programs require
+the manipulation of a variety of different 
+data structures, including linear text, sparse matrices,
+and tree or list structures.
+
+
+
+
+
+Document number:2265
+Rank:3
+This paper attempts to isolate 
+the notion of type checking and presents a partial
+solution to the type checking problem based on the 
+notions of abstraction and application of functions.
+
+
+
+
+
+Document number:2470
+Rank:4
+It is described how the local environment can be modeled
+as a data item and how imperative statements 
+can be considered functions on the environment.
+
+
+
+
+
+Document number:2651
+Rank:5
+The Treatment of Data Types in <b>EL1</b>
+
+In constructing a general purpose programming
+language, a key issue is providing a sufficient 
+set of data types and associated operations in a manner
+that permits both natural problem-oriented notation 
+and efficient implementation.
+
+
+
+
+
+Document number:1747
+Rank:6
+These criteria
+imply that a user can, if he desires, either 
+know or control all the influences affecting the content
+and extent of his computer's output.
+
+
+
+
+
+Document number:2195
+Rank:7
+The method described is suitable for parallel 
+processing because the operations relative to each
+state can be computed in parallel, and the number
+of stages is equal to the length N of the curves (or
+to log2 N if the approximate method is used).
+
+
+
+
+
+Document number:2138
+Rank:8
+This language
+is designed so as to be especially suitable 
+for use in writing production software systems for a
+specific machine (the PDP-10): compilers, operating 
+systems, etc.
+
+
+
+
+
+Document number:2283
+Rank:9
+Thinning Algorithms on Rectangular, Hexagonal, and Triangular Arrays
+
+In this report three thinning algorithms are
+developed: one each for use with rectangular, 
+hexagonal, and triangular arrays.
+
+
+
+
+
+Document number:3148
+Rank:10
+Based on primitive notions of module, message,
+and transaction key, the methodology is shown to be independent
+of particular languages and machines.
+
+
+
+
+

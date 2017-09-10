@@ -1,0 +1,126 @@
+Query:27
+Document number:1641
+Rank:1
+As often happens in programming 
+applications the price of the additional space is computer
+time.
+
+
+
+
+
+Document number:2616
+Rank:2
+On the Conversion of Programs to Decision Tables: Method and Objectives
+
+The problems of converting programs to decision
+tables are investigated.
+
+
+
+
+
+Document number:2080
+Rank:3
+The Nucleus of a Multiprogramming System
+
+This paper describes the philosophy and structure of a multiprogramming system 
+that can be extended with a hierarchy of <b>operating</b> <b>systems</b> to suit diverse 
+requirements of program scheduling and resource allocation.
+
+
+
+
+
+Document number:2812
+Rank:4
+Computer-Aided Analysis and Design of Information Systems
+
+This paper describes the use of computer-aided
+analysis for the design and development of an 
+integrated financial <b>management</b> system by the Navy Material
+Command Support Activity (NMCSA).
+
+
+
+
+
+Document number:1879
+Rank:5
+A Note on Storage Fragmentation and Program Segmentation
+
+The main purpose of this paper is the presentation
+of some of the results of a series of simulation 
+experiments investigating the phenomenon of storage fragmentation.
+
+
+
+
+
+Document number:2950
+Rank:6
+A
+criterion for the implementation efficiency of an 
+algorithm is developed and results in the definition
+of time-invariant algorithms, which include most 
+of the commonly implemented ones.
+
+
+
+
+
+Document number:1959
+Rank:7
+CACM December, 1970
+
+Morgan, H. L.
+
+<b>management</b> information <b>systems</b>, integrated data processing,
+supervisors, interrupts monitoring <b>systems</b>, supervisory
+<b>systems</b>, interrupt scheduling, parallel processing
+
+3.51 4.22 4.32
+
+CA701204 JB February 9, 1978  3:46 PM
+
+
+
+
+
+Document number:1719
+Rank:8
+A Methodology for Calculating and
+Optimizing Real-Time System Performance
+
+The continually increasing size, complexity,
+number of types, and cost of data processing <b>systems</b> 
+are causing serious re-examination within government
+and industry of the criteria for and methods of 
+calculating and optimizing data processing system cost
+and performance.
+
+
+
+
+
+Document number:2379
+Rank:9
+The system was
+produced to test the effect of machine architecture 
+on complexity of software.
+
+
+
+
+
+Document number:1884
+Rank:10
+An informal 
+discussion of the anomalous behavior is given, and for
+the case of the FIFO replacement algorithm a formal 
+treatment is presented.
+
+
+
+
+

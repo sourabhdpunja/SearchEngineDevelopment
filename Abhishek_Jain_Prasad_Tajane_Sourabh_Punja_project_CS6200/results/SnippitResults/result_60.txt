@@ -1,0 +1,127 @@
+Query:60
+Document number:2023
+Rank:1
+A Note on Data Base Deadlocks
+
+CACM July, 1970
+
+Baecker, H. D.
+
+data base, synchronization, locking, deadlock, reference count
+
+3.73
+
+CA700714 JB February 10, 1978  4:18 PM
+
+
+
+
+
+Document number:2593
+Rank:2
+A Back-<b>end</b> Computer for Data Base Management
+
+It is proposed that the data base <b>management</b>
+function be placed on a dedicated <b>back</b>-<b>end</b> computer 
+which accepts commands (in a relatively high level language
+such as the CODASYL Data Base Task Group, 
+April 1971 Report) from a host computer, accesses the
+data base on secondary storage, and returns results.
+
+
+
+
+
+Document number:2046
+Rank:3
+Existing noninferential, formatted data <b>systems</b> 
+provide users with tree-structured files or slightly more general <b>network</b> 
+models of the data.
+
+
+
+
+
+Document number:2470
+Rank:4
+Both deterministic and nondeterministic
+functions are shown to be definable in the system.
+
+
+
+
+
+Document number:2406
+Rank:5
+Such languages will be a key <b>systems</b>, as well
+as in advanced data <b>management</b> <b>systems</b> and distributed 
+data bases.
+
+
+
+
+
+Document number:2138
+Rank:6
+Prime design goals of the design are the
+ability to produce highly efficient object code, 
+to allow access to all relevant <b>hardware</b> features of
+the host machine, and to provide a rational means 
+by which to cope with the evolutionary nature of <b>systems</b>
+programs.
+
+
+
+
+
+Document number:2956
+Rank:7
+Among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a data type, the need for
+a simple notation for allowing types of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.
+
+
+
+
+
+Document number:2616
+Rank:8
+On the Conversion of Programs to Decision Tables: Method and Objectives
+
+The problems of converting programs to decision
+tables are investigated.
+
+
+
+
+
+Document number:2493
+Rank:9
+Optimum Data Base Reorganization Points
+
+In certain data base organization schemes the
+cost per access may increase due to structural 
+inefficiencies caused by updates.
+
+
+
+
+
+Document number:1747
+Rank:10
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+
+The designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.
+
+
+
+
+

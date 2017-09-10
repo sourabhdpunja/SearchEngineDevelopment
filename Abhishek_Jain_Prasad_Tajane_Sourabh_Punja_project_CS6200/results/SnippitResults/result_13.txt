@@ -1,0 +1,119 @@
+Query:13
+Document number:0115
+Rank:1
+Optimizers: Their Structure
+
+CACM December, 1960
+
+Wheeling, R. F.
+
+CA601201 JB March 20, 1978  6:46 PM
+
+
+
+
+
+Document number:2897
+Rank:2
+For most contexts of the concatenate statement, the <b>code</b>
+produced by a compiler using the expansion-<b>optimization</b> 
+strategy described above compares favorably with the
+<b>code</b> produced by a conventional PL/I optimizing 
+compiler.
+
+
+
+
+
+Document number:1551
+Rank:3
+On Compiling Algorithms for Arithmetic Expressions
+
+This paper deals with algorithms concerning arithmetic
+expressions used in a FORTRAN IV compiler 
+for a HITAC-5020 computer having n accumulators.
+
+
+
+
+
+Document number:2358
+Rank:4
+Information is stored
+in segments each of which is potentially sharable 
+and carries its own independent attributes of size and access
+privilege.
+
+
+
+
+
+Document number:2379
+Rank:5
+The system is defined by
+a combination of microprograms and software.
+
+
+
+
+
+Document number:1625
+Rank:6
+The simplifications are based
+on the form of the program and the knowledge obtained 
+by a processor, without any understanding of what the
+program is supposed to do.
+
+
+
+
+
+Document number:3025
+Rank:7
+The PDP-10's
+contributions to computing technology include: 
+accelerating the transition from batch oriented to time
+sharing computing systems; transferring hardware 
+technology within DEC (and elsewhere) to minicomputer
+design and manufacturing; supporting minicomputer 
+hardware and software development; and serving as a
+model for single user and timeshared interactive 
+minicomputer/microcomputer systems.
+
+
+
+
+
+Document number:1341
+Rank:8
+Levels of Computer Systems
+
+In building current computer systems, we tend
+to break them down into "levels" of control, 
+command and communication; in using the system, we break
+our problems down correspondingly.
+
+
+
+
+
+Document number:1928
+Rank:9
+Essential objectives sought are improved
+ease and economy in model generation, economy 
+in execution time and <b>space</b>, and a facility for handling
+simultaneous activities.
+
+
+
+
+
+Document number:3128
+Rank:10
+An implementation of eventcount
+s and sequencers in a system with shared memory is described.
+
+
+
+
+

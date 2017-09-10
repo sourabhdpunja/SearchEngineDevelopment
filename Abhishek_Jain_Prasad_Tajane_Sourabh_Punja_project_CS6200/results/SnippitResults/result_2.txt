@@ -1,0 +1,115 @@
+Query:2
+Document number:3078
+Rank:1
+CACM July, 1978
+
+Chattergy, R.
+<b>Pooch</b>, U.
+
+
+
+
+
+Document number:2863
+Rank:2
+CACM May, 1976
+
+<b>Prieve</b>, B. G.
+Fabry, R. S.
+
+demand paging, performance measurement, multilevel
+memory systems, virtual memory, working set, 
+page replacement algorithms, optimal page replacement
+
+4.30 4.32
+
+CA760508 JB January 4, 1978  3:06 PM
+
+
+
+
+
+Document number:2434
+Rank:3
+Several omissions in his model are noted,
+and new assumptions are introduced to overcome 
+these omissions.
+
+
+
+
+
+Document number:2379
+Rank:4
+The system is defined by
+a combination of microprograms and software.
+
+
+
+
+
+Document number:1519
+Rank:5
+The system is not oriented
+towards either mode and can be either a batch 
+processing system (such as the ATLAS Supervisor, IBSYS,
+or GECOS), or a multiaccess system (resembling, 
+to the user, CTSS or MULTICS), or both simultaneously,
+depending on the installation, which can adjust 
+the Schedulers.
+
+
+
+
+
+Document number:1410
+Rank:6
+The input process 
+is assumed to be stationary, and to be defined by the
+interarrival time distribution.
+
+
+
+
+
+Document number:1523
+Rank:7
+No attempt was made to use reentrant code, 
+or to simulate segmentation or paging.
+
+
+
+
+
+Document number:1033
+Rank:8
+The system also
+permits simple specification of test and argument 
+arrays in single statements.
+
+
+
+
+
+Document number:1506
+Rank:9
+The program segments called 
+into execution by the remote CRT consoles are invariably
+run to completion rather than "rolled-out" to 
+be brought back at a later time.
+
+
+
+
+
+Document number:1605
+Rank:10
+Influences external to the systems, such as
+the sequence of problem solution, and programmer 
+and problem characteristics, were specified as design
+factors in the experiment.
+
+
+
+
+

@@ -1,0 +1,112 @@
+Query:35
+Document number:2630
+Rank:1
+These <b><b>algorithm</b>s</b> generalize the Floyd
+<b>algorithm</b> and the Dantzig <b>algorithm</b> for finding 
+the shortest path between every pair of vertices in a directed graph.
+
+
+
+
+
+Document number:2289
+Rank:2
+In particular, several parallelized 
+<b>algorithms</b> are presented for the solution of certain
+spanning tree, distance, and path problems, with 
+direct applications to wire routing, PERT chart analysis,
+and the analysis of many types of networks.
+
+
+
+
+
+Document number:2283
+Rank:3
+Pictorial 
+results produced by each of the <b>algorithms</b> are presented
+and the relative performances of the <b>algorithms</b> 
+are compared.
+
+
+
+
+
+Document number:2932
+Rank:4
+Complexity of Computations
+
+The framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.
+
+
+
+
+
+Document number:2616
+Rank:5
+On the Conversion of Programs to Decision Tables: Method and Objectives
+
+The problems of converting programs to decision
+tables are investigated.
+
+
+
+
+
+Document number:2195
+Rank:6
+The relation
+between the structure of the figure of merit and 
+the complexity of the optimization process is then discussed.
+
+
+
+
+
+Document number:2950
+Rank:7
+Various classes of scheduling <b>algorithms</b>
+are defined and related to existing <b>algorithms</b>.
+
+
+
+
+
+Document number:1529
+Rank:8
+In the course of the analysis, a substructure
+was discovered which has relevance to the 
+relative performance of the two <b>algorithms</b> and to their
+absolute performance as compared with a standard 
+primal-Simplex solution without decomposition.
+
+
+
+
+
+Document number:2883
+Rank:9
+<b>Some</b> experimental results 
+are given; these show how various information about the
+shape of the contour of an object can be embedded
+in the figure of merit, thus allowing the extraction
+of contours from noisy picture and the separation 
+of touching objects.
+
+
+
+
+
+Document number:2892
+Rank:10
+The source of this over head is separated into various
+levels of protocol hierarchy and the characteristics 
+of each level are summarized.
+
+
+
+
+

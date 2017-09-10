@@ -1,0 +1,113 @@
+Query:1
+Document number:1410
+Rank:1
+Interarrival Statistics for Time <b>Sharing</b> Systems
+
+The optimization of time-shared <b>system</b> performance
+requires the description of the stochastic 
+processes governing the user inputs and the program activity.
+
+
+
+
+
+Document number:2379
+Rank:2
+In this paper the development of the <b>system</b> is 
+described, with particular emphasis on the principles which guided the design.
+
+
+
+
+
+Document number:1572
+Rank:3
+The use of
+the simulation is demonstrated by a study of the 
+<b>IBM</b> 360/67 time-sharing <b>system</b>.
+
+
+
+
+
+Document number:1605
+Rank:4
+An Experimental Comparison of Time <b>Sharing</b> and Batch Processing
+
+The effectiveness for program development
+of the MIT Compatible Time-<b>Sharing</b> System (CTSS) 
+was compared with that of the <b>IBM</b> IBSYS batch-processing
+<b>system</b> by means of a statistically designed 
+experiment.
+
+
+
+
+
+Document number:1033
+Rank:5
+Present implementation 
+of the <b>system</b> is with an interpretive translator on an <b>IBM</b> 1620 computer.
+
+
+
+
+
+Document number:1523
+Rank:6
+SHARER, a Time <b>Sharing</b> System for the CDC 6600
+
+A time sharing <b>system</b> embedded within the
+standard batch processing <b>system</b> for the CDC 6600 
+is described.
+
+
+
+
+
+Document number:1506
+Rank:7
+The monitor
+was designed so that it could work with a small 
+computer (an <b>IBM</b> System 360/30).
+
+
+
+
+
+Document number:1544
+Rank:8
+The <b>system</b> is 
+a compatible extension of an existing batch processing
+<b>system</b>.
+
+
+
+
+
+Document number:1938
+Rank:9
+Some Criteria for Time-<b>Sharing</b> System Performance
+
+Time-sharing <b>system</b>s, as defined in this article,
+are those multiaccess <b>system</b>s which permit 
+a terminal user to utilize essentially the full resources
+of the <b>system</b> while sharing its time with other 
+terminal users.
+
+
+
+
+
+Document number:0699
+Rank:10
+A Contour-Map Program for X-Ray Crystallography
+
+A FORTRAN program is described for use with
+the <b>IBM</b> 7090 <b>system</b> and an X, Y-plotter to produce 
+a contour map.
+
+
+
+
+

@@ -1,0 +1,134 @@
+Query:19
+Document number:2266
+Rank:1
+A Highly <b>Parallel</b> Algorithm for Approximating
+All Zeros of a Polynomial with Only Real Zeros
+
+An algorithm is described based on Newton's
+method which simultaneously approximates all zeros 
+of a polynomial with only real zeros.
+
+
+
+
+
+Document number:2080
+Rank:2
+CACM April, 1970
+
+Hansen, P. B.
+
+multiprogramming, operating systems, parallel processes, process concept,
+process communication, message buffering, process
+hierarchy, process creation, process removal
+
+4.30 4.31 4.32 4.41
+
+CA700404 JB February 13, 1978  3:10 PM
+
+
+
+
+
+Document number:2664
+Rank:3
+Both approximately
+achieve the goal of reducing the processing 
+time by a divisor which is the number of processors.
+
+
+
+
+
+Document number:2812
+Rank:4
+CACM December, 1976
+
+Nunamaker, J. F. Jr.
+Konsynski, B. R. Jr.
+Ho, T.
+Singer, C.
+
+computer-aided analysis, information systems, logical
+system design, problem statement language, 
+problem statement analyzer, physical system design,
+accurately defined systems, systems optimization 
+and design algorithm
+
+2.44 3.50 4.33 4.9 8.1
+
+CA761203 JB January 3, 1978  2:31 PM
+
+
+
+
+
+Document number:1747
+Rank:5
+Three possible criteria of this
+kind are input recordability, input specifiability, 
+and asynchronous reproducibility of output.
+
+
+
+
+
+Document number:1959
+Rank:6
+An Interrupt Based Organization for Management Information Systems
+
+A programming structure, language constructs, and a supervisory system 
+organization are proposed
+for the design and coding of large shared data base systems.
+
+
+
+
+
+Document number:2195
+Rank:7
+A multistage decision process is then able to recognize
+in the input picture the optimal system of lines 
+according to the given figure of merit.
+
+
+
+
+
+Document number:2973
+Rank:8
+Sorting on a Mesh-Connected <b>Parallel</b> Computer
+
+Two <b>algorithms</b> are presented for sorting n^2
+elements on an n X n mesh-connected processor 
+array that require O(n) routing and comparison steps.
+
+
+
+
+
+Document number:2950
+Rank:9
+Various classes of scheduling <b>algorithms</b>
+are defined and related to existing <b>algorithms</b>.
+
+
+
+
+
+Document number:1719
+Rank:10
+A Methodology for Calculating and
+Optimizing Real-Time System Performance
+
+The continually increasing size, complexity,
+number of types, and cost of data processing systems 
+are causing serious re-examination within government
+and industry of the criteria for and methods of 
+calculating and optimizing data processing system cost
+and performance.
+
+
+
+
+

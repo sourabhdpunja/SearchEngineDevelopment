@@ -1,0 +1,125 @@
+Query:4
+Document number:3078
+Rank:1
+Analysis of the Availability of Computer
+Systems Using Computer- Aided Algebra
+
+Analytical results, related to the availability
+of a computer system constructed of unreliable 
+processors, are presented in this paper.
+
+
+
+
+
+Document number:1811
+Rank:2
+A
+program for the determination of the distribution 
+of current in an electrical network was written for a
+parallel-processor computing system, and execution 
+of this program was simulated.
+
+
+
+
+
+Document number:2796
+Rank:3
+Monitors: An Operating System Structuring Concept (Corrigendum)
+
+CACM February, 1975
+
+Hoare, C. A. R. 
+
+CA750203 JB January 12, 1978  8:45 AM
+
+
+
+
+
+Document number:2371
+Rank:4
+A System for Interprocess Communication
+in a Resource Sharing Computer Network
+
+A system of communication between processes in a
+time-sharing system is described and the communication 
+system is extended so that it may be used between processes
+<b>distributed</b> throughout a computer network.
+
+
+
+
+
+Document number:3128
+Rank:5
+The relationship of the mechanism
+to protection <b>mechanisms</b> in the system is explained; in particular,
+eventcounts are shown to be applicable to situations where confinement
+of information matters.
+
+
+
+
+
+Document number:2840
+Rank:6
+Protection in Operating Systems
+
+A model of protection <b>mechanisms</b> in computing
+systems is presented and its appropriateness 
+is argued.
+
+
+
+
+
+Document number:2519
+Rank:7
+These include ways of augmenting written
+natural language by various notational and linguistic 
+devices, the exhibition of the structure inherent in the
+information we are <b>communicating</b>, and a sophisticated 
+interactive system controlled by computer.
+
+
+
+
+
+Document number:1626
+Rank:8
+Described in this paper are a number
+of techniques that have been used to build a LISP 
+system utilizing a drum for its principal storage medium,
+ with a surprisingly low time penalty for use 
+of this slow storage device.
+
+
+
+
+
+Document number:2920
+Rank:9
+When each process specifies its 
+future needs by a flowchart of need-defined steps, a global
+approach to the phenomenon and its in terpretation 
+as a game between the operating system and the processes
+allows formalization of risk and safety concepts.
+
+
+
+
+
+Document number:0699
+Rank:10
+A Contour-Map Program for X-Ray Crystallography
+
+A FORTRAN program is described for use with
+the IBM 7090 system and an X, Y-plotter to produce 
+a contour map.
+
+
+
+
+

@@ -1,0 +1,120 @@
+Query:58
+Document number:2289
+Rank:1
+Cellular Arrays for the Solution of Graph Problems
+
+A cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits of
+memory and a small amount of combinational logic, 
+and communicates mainly with its immediate neighbors
+in the array.
+
+
+
+
+
+Document number:1293
+Rank:2
+Method is Randomness 
+
+Certain nonrandom properties of a commonly used
+random number generator are described and analyzed.
+
+
+
+
+
+Document number:3148
+Rank:3
+Based on primitive notions of module, message,
+and transaction key, the methodology is shown to be independent
+of particular languages and machines.
+
+
+
+
+
+Document number:0536
+Rank:4
+Nonlinear Regression and the Solution of Simultaneous Equations
+
+If one has a set of observables (Z1,...,Zm) which
+are bound in a relation with certain parameters 
+(A1,...,An) by an equation S(Z1,...;A1,...)=0, one frequently
+has the problem of determining a set of 
+values of the Ai which minimizes the sum of <b>squares</b> of
+differences between observed and calculated values 
+of a distinguished observable, say Zm.
+
+
+
+
+
+Document number:2265
+Rank:5
+The determination
+of the type-wise correctness or incorrectness 
+of the program is resolved by reducing its corresponding
+Lambda calculus expression to one of two normal 
+forms, the constant "correct" for a type-wise correct
+program or the constant "error".
+
+
+
+
+
+Document number:1457
+Rank:6
+Advantages of these programming languages
+for the retrieval application are examined, 
+and suggestions are made for the design of programming
+facilities to aid in information retrieval.
+
+
+
+
+
+Document number:2283
+Rank:7
+Pictorial 
+results produced by each of the algorithms are presented
+and the relative performances of the algorithms 
+are compared.
+
+
+
+
+
+Document number:1344
+Rank:8
+Statistical Computations Based Upon Algebraically Specified Models
+
+Based upon a machine-readable <b><b>statistical</b></b> model
+and related symbolic specifications, an efficient 
+method of performing calculations for <b><b>statistical</b></b> models
+of a balanced complete nature is presented.
+
+
+
+
+
+Document number:2616
+Rank:9
+Extensions to the theory of computation 
+and computability are suggested.
+
+
+
+
+
+Document number:2829
+Rank:10
+The shape
+and size of this weighting function are chosen 
+using digital signal processing theory.
+
+
+
+
+

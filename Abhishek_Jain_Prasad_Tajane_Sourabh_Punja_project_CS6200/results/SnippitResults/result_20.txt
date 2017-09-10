@@ -1,0 +1,111 @@
+Query:20
+Document number:2616
+Rank:1
+On the Conversion of Programs to Decision Tables: Method and Objectives
+
+The problems of converting programs to decision
+tables are investigated.
+
+
+
+
+
+Document number:1563
+Rank:2
+A graph-<b>theoretic</b>
+justification for the method is given.
+
+
+
+
+
+Document number:2695
+Rank:3
+Consider the class of <b>sparse</b>
+<b>matrices</b> which can be tridiagonalized using 
+only row and corresponding column permutations.
+
+
+
+
+
+Document number:2986
+Rank:4
+For example, how to compute
+operator precedence or Wirth-Weber precedence 
+relations in O(n^2) steps is shown, as well as how to
+compute linear precedence functions in O(n^2) steps 
+is shown, as well as how to compute linear precedence
+functions in O(n) steps, where n is the size of 
+a grammer.
+
+
+
+
+
+Document number:1747
+Rank:5
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+
+The designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.
+
+
+
+
+
+Document number:2195
+Rank:6
+The method described is suitable for parallel 
+processing because the operations relative to each
+state can be computed in parallel, and the number
+of stages is equal to the length N of the curves (or
+to log2 N if the approximate method is used).
+
+
+
+
+
+Document number:1959
+Rank:7
+DPL, a programming language and supervisory
+system in which these concepts are implemented, is used to illustrated
+the new organization which is proposed for management information systems.
+
+
+
+
+
+Document number:2950
+Rank:8
+Various classes of scheduling <b>algorithms</b>
+are defined and related to existing <b>algorithms</b>.
+
+
+
+
+
+Document number:2321
+Rank:9
+When specifying these interfaces, 
+consideration must be given to problems of coordination,
+synchronization, error control, signaling, stream 
+multiplexing, and switch control, in addition to minimizing
+the technological interdependence of specific 
+subsystem designs.
+
+
+
+
+
+Document number:1410
+Rank:10
+The input process 
+is assumed to be stationary, and to be defined by the
+interarrival time distribution.
+
+
+
+
+

@@ -1,0 +1,124 @@
+Query:63
+Document number:2289
+Rank:1
+In particular, several parallelized 
+algorithms are presented for the solution of certain
+spanning tree, distance, and path problems, with 
+direct applications to wire routing, PERT chart analysis,
+and the analysis of many types of networks.
+
+
+
+
+
+Document number:1601
+Rank:2
+Several families of numerical procedures
+which use the technique of the procedures in 
+a <b><b>parallel</b></b> processing environment are developed and measurements
+of these statistics are reported.
+
+
+
+
+
+Document number:1795
+Rank:3
+Optimal Code for Serial and Parallel Computation
+
+CACM December, 1969
+
+Fateman, R. J.
+
+code optimization, sequencing of operations,
+detection of common subexpressions
+
+4.12
+
+CA691217 JB February 15, 1978  1:59 PM
+
+
+
+
+
+Document number:1811
+Rank:4
+A
+program for the determination of the distribution 
+of current in an electrical network was written for a
+<b><b>parallel</b></b>-processor computing system, and execution 
+of this program was simulated.
+
+
+
+
+
+Document number:2570
+Rank:5
+It is shown that 
+different algorithms suggested in the literature vary significantly
+in execution time and that the B-schedule 
+of Coffman and Graham is near-optimal.
+
+
+
+
+
+Document number:2557
+Rank:6
+On the Time Required for a Sequence of Matrix Products
+
+This paper discusses the multiplication of conformable
+sequences of row vectors, column vectors, 
+and square matrices.
+
+
+
+
+
+Document number:2195
+Rank:7
+The method described is suitable for <b><b>parallel</b></b> 
+processing because the operations relative to each
+state can be computed in <b><b>parallel</b></b>, and the number
+of stages is equal to the length N of the curves (or
+to log2 N if the approximate method is used).
+
+
+
+
+
+Document number:2664
+Rank:8
+Parallelism in Tape-Sorting
+
+Two methods for employing parallelism in tape-sorting
+are presented.
+
+
+
+
+
+Document number:2283
+Rank:9
+Thinning <b>Algorithms</b> on Rectangular, Hexagonal, and Triangular Arrays
+
+In this report three thinning algorithms are
+developed: one each for use with rectangular, 
+hexagonal, and triangular arrays.
+
+
+
+
+
+Document number:3148
+Rank:10
+High Level Programming for Distributed Computing
+
+Programming for distributed and other loosely coupled systems
+is a problem of growing interest.
+
+
+
+
+

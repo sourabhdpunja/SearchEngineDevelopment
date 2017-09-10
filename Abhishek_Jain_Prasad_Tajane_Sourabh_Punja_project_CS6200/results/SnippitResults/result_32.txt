@@ -1,0 +1,115 @@
+Query:32
+Document number:2630
+Rank:1
+These <b><b>algorithms</b></b> generalize the Floyd
+algorithm and the Dantzig algorithm for finding 
+the shortest path between every pair of vertices in a directed <b><b><b>graph</b></b></b>.
+
+
+
+
+
+Document number:0366
+Rank:2
+Eigenvalues of a Symmetric 3 x 3 Matrix
+
+CACM April, 1961
+
+Smith, O. K.
+
+CA610402 JB March 17, 1978  12:14 AM
+
+
+
+
+
+Document number:1145
+Rank:3
+GIT has been written 
+in the COMIT language and successfully tested on the IBM 7090.
+
+
+
+
+
+Document number:2195
+Rank:4
+The method described is suitable for parallel 
+processing because the operations relative to each
+state can be computed in parallel, and the number
+of stages is equal to the length N of the curves (or
+to log2 N if the approximate method is used).
+
+
+
+
+
+Document number:2616
+Rank:5
+Extensions to the theory of computation 
+and computability are suggested.
+
+
+
+
+
+Document number:2950
+Rank:6
+A
+criterion for the implementation efficiency of an 
+algorithm is developed and results in the definition
+of time-invariant <b><b>algorithms</b></b>, which include most 
+of the commonly implemented ones.
+
+
+
+
+
+Document number:3139
+Rank:7
+New Methods to Color the Vertices of a Graph
+
+This paper describes efficient new <b>heuristic</b>
+methods to color the vertices of a <b><b><b>graph</b></b></b> which rely
+upon the comparison of the degrees and structure of a <b><b><b>graph</b></b></b>.
+
+
+
+
+
+Document number:2125
+Rank:8
+The ordered sequence of contour points and the connection <b><b><b>graph</b></b></b> of
+the image are first obtained by a modified Ledley algorithm in one
+image scan.
+
+
+
+
+
+Document number:1563
+Rank:9
+A <b><b><b>graph</b></b></b>-theoretic
+justification for the method is given.
+
+
+
+
+
+Document number:1928
+Rank:10
+The main results obtained 
+are a clear and useful separation of structural and behavioral
+model description, a reduction of manual 
+tasks in converting Boolean logic into a structural model,
+the elimination of manual processes in achieving 
+exclusive simulation of activity, an event-scheduling
+technique which does not deteriorate in economy
+as the event queue grows in length, and a simulation
+procedure which deals effectively with any mixture 
+of serial and simultaneous activities.
+
+
+
+
+

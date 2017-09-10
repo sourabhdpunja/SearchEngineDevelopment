@@ -1,0 +1,119 @@
+Query:43
+Document number:2201
+Rank:1
+It is anticipated that one of the primary 
+contributions of Animator will be the provision of a
+facility which will allow any professor to produce 
+his own expository film strips.
+
+
+
+
+
+Document number:0122
+Rank:2
+Least Squares Fitting of a Great Circle Through Points on a Sphere
+
+CACM November,1960
+
+DeWitte, L.
+
+CA601113 JB March 20, 1978  6:59 PM
+
+
+
+
+
+Document number:1686
+Rank:3
+The mathematical model and computational techniques 
+of the authors' digital holographic process are discussed,
+and applications of computer holography are 
+suggested.
+
+
+
+
+
+Document number:0297
+Rank:4
+A Note on Fitting Great Circles by Least Squares
+
+CACM August, 1961
+
+Marcus, C. F.
+
+CA610807 JB March 16, 1978  10:05 PM
+
+
+
+
+
+Document number:2138
+Rank:5
+A major feature which contributes 
+to the realization of these goals is a mechanism permitting
+the definition of the representation of all 
+data structures in terms of the access algorithm for elements of the structure.
+
+
+
+
+
+Document number:0462
+Rank:6
+It is important to choose a 
+class of signals which is, at present, undergoing a
+good deal of visual inspection by trained people 
+for the purpose of pattern <b>recognition</b>.
+
+
+
+
+
+Document number:3082
+Rank:7
+Time, Clocks, and the Ordering of Events in a Distributed System
+
+The concept of one event happening before
+another in a distributed system is examined, and
+is shown to define a partial ordering of the events.
+
+
+
+
+
+Document number:1528
+Rank:8
+The fonts include both
+upper and lower case Roman letters, mathematical 
+signs, and upper and lower case Greek letters.
+
+
+
+
+
+Document number:3124
+Rank:9
+An extension of APL is proposed that
+includes new primitive functions to manipulate the nesting
+level of arrays and new operators to assist in the
+construction of data-driven algorithms.
+
+
+
+
+
+Document number:2940
+Rank:10
+Abstraction and Verification in Alphard: Defining
+and Specifying Iteration and Generators
+
+The Alphard "form" provides the programmer with
+a great deal of control over the implementation 
+of abstract data types.
+
+
+
+
+

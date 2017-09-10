@@ -1,0 +1,133 @@
+Query:48
+Document number:2073
+Rank:1
+Solution of Linear Programs in 0-1 Variables
+by Implicit Enumeration (Algorithm 341 $H))
+
+CACM April, 1970
+
+Guignard, M. M.
+
+<b>linear</b> programming, zero-one variables, partial enumeration
+
+5.41
+
+CA700411 JB February 13, 1978  2:43 PM
+
+
+
+
+
+Document number:2283
+Rank:2
+Pictorial 
+results produced by each of the algorithms are presented
+and the relative performances of the algorithms 
+are compared.
+
+
+
+
+
+Document number:1666
+Rank:3
+Solution of Linear Programs in 0-1 Variables
+by Implicit Enumeration (Algorithm 341 [H])
+
+CACM November, 1968
+
+Byrne, J. L.
+Proll, L. G.
+
+<b>linear</b> programming, zero-one variables, partial enumeration
+
+5.41
+
+CA681113 JB February 21, 1978  2:21 PM
+
+
+
+
+
+Document number:2325
+Rank:4
+Four of the components 
+of <b>numerical</b> mathematics are discussed.
+
+
+
+
+
+Document number:2285
+Rank:5
+<b>The</b> program has been extensively tested on
+a wide range of problems and the results have been extremely satisfactory.
+
+
+
+
+
+Document number:2223
+Rank:6
+Minit Algorithm For Linear Programming (Algorithm 222 [H])
+
+CACM January, 1971
+
+Kolm, A.
+Dahlstrand, T.
+
+<b>linear</b> programming, dual simplex method, primal problem, dual problem
+
+5.41
+
+CA710111 JB February 8, 1978  10:22 AM
+
+
+
+
+
+Document number:2226
+Rank:7
+<b>The</b> utility of one of
+the algorithms as a suboptimizer is indicated.
+
+
+
+
+
+Document number:3082
+Rank:8
+Time, Clocks, and the Ordering of Events in a Distributed System
+
+<b>The</b> concept of one event happening before
+another in a distributed system is examined, and
+is shown to define a partial ordering of the events.
+
+
+
+
+
+Document number:2932
+Rank:9
+Complexity of Computations
+
+<b>The</b> framework for research in the theory of <b>complexity</b>
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.
+
+
+
+
+
+Document number:3124
+Rank:10
+An extension of APL is proposed that
+<b>includes</b> new primitive functions to manipulate the nesting
+level of arrays and new operators to assist in the
+construction of <b>data</b>-driven algorithms.
+
+
+
+
+

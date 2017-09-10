@@ -1,0 +1,117 @@
+Query:34
+Document number:2630
+Rank:1
+On Computing Sets of Shortest Paths in a Graph
+
+Two algorithms are presented that construct
+the k shortest paths between every pair of vertices 
+in a directed graph.
+
+
+
+
+
+Document number:2289
+Rank:2
+Cellular Arrays for the Solution of Graph Problems
+
+A cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits of
+memory and a small amount of combinational logic, 
+and communicates mainly with its immediate neighbors
+in the array.
+
+
+
+
+
+Document number:2283
+Rank:3
+Pictorial 
+results produced by each of the algorithms are presented
+and the relative performances of the algorithms 
+are compared.
+
+
+
+
+
+Document number:2616
+Rank:4
+On the Conversion of Programs to Decision Tables: Method and Objectives
+
+The problems of converting programs to decision
+tables are investigated.
+
+
+
+
+
+Document number:2195
+Rank:5
+In this technique the heuristic 
+of the problem is not embedded in the recognition algorithm
+but is expressed in a figure of merit.
+
+
+
+
+
+Document number:2950
+Rank:6
+A
+criterion for the implementation efficiency of an 
+algorithm is developed and results in the definition
+of time-invariant algorithms, which include most 
+of the commonly implemented ones.
+
+
+
+
+
+Document number:2883
+Rank:7
+The properties 
+of an edge are embedded in a figure of merit and the edge
+detection problem becomes the problem of minimizing 
+the given figure of merit.
+
+
+
+
+
+Document number:1529
+Rank:8
+In the course of the analysis, a substructure
+was discovered which has relevance to the 
+relative performance of the two algorithms and to their
+absolute performance as compared with a standard 
+primal-Simplex solution without decomposition.
+
+
+
+
+
+Document number:1563
+Rank:9
+A Method for Finding Hamilton Paths and Knight's Tours
+
+The use of Warnsdorff's rule for finding a
+knight's tour is generalized and applied to the 
+problem of finding a Hamilton path in a graph.
+
+
+
+
+
+Document number:2892
+Rank:10
+The source of this over head is separated into various
+levels of protocol hierarchy and the characteristics 
+of each level are summarized.
+
+
+
+
+

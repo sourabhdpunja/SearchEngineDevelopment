@@ -1,0 +1,121 @@
+Query:33
+Document number:2630
+Rank:1
+These algorithms generalize the Floyd
+algorithm and the Dantzig algorithm for finding 
+the shortest path between every pair of vertices in a directed graph.
+
+
+
+
+
+Document number:2289
+Rank:2
+A major challenge
+in the effective use of cellular arrays for the 
+solution of graph problems is the determination of algorithms
+that exploit the possibilities for parallelism, 
+<b>especially</b> for problems whose solutions appear to be inherently
+serial.
+
+
+
+
+
+Document number:2805
+Rank:3
+Perturbations of Eigenvalues of Non-normal Matrices
+
+The problem considered is to give <b>bounds</b> for finite
+perturbations of simple and multiple eigenvalues 
+of nonnormal matrices, where these <b>bounds</b> are in terms
+of the eigenvalues, the departure from normality, 
+and the Frobenius norm of the perturbation matrix, but
+not in terms of the eigen system.
+
+
+
+
+
+Document number:2616
+Rank:4
+On the Conversion of Programs to Decision Tables: Method and Objectives
+
+The problems of converting programs to decision
+tables are investigated.
+
+
+
+
+
+Document number:2283
+Rank:5
+Pictorial 
+results produced by each of the algorithms are presented
+and the relative performances of the algorithms 
+are compared.
+
+
+
+
+
+Document number:2950
+Rank:6
+A
+criterion for the implementation efficiency of an 
+algorithm is developed and results in the definition
+of time-<b>invariant</b> algorithms, which include most 
+of the commonly implemented ones.
+
+
+
+
+
+Document number:2883
+Rank:7
+Some experimental results 
+are given; these show how various information about the
+shape of the contour of an object can be embedded
+in the figure of merit, thus allowing the extraction
+of contours from noisy picture and the <b>separation</b> 
+of touching objects.
+
+
+
+
+
+Document number:1529
+Rank:8
+In the course of the analysis, a substructure
+was discovered which has relevance to the 
+relative performance of the two algorithms and to their
+absolute performance as compared with a standard 
+primal-Simplex solution without <b>decomposition</b>.
+
+
+
+
+
+Document number:1563
+Rank:9
+A Method for Finding Hamilton Paths and Knight's Tours
+
+The use of Warnsdorff's rule for finding a
+knight's tour is generalized and applied to the 
+problem of finding a Hamilton path in a graph.
+
+
+
+
+
+Document number:2892
+Rank:10
+A Study of Line Overhead in the Arpanet
+
+The form, extent, and effect of the communication line
+overhead in the ARPANET are considered.
+
+
+
+
+

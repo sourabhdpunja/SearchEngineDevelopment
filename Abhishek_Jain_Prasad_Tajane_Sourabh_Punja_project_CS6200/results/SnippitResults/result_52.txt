@@ -1,0 +1,121 @@
+Query:52
+Document number:2289
+Rank:1
+For example, the adjacency
+matrix of a graph is easily mapped onto an array; 
+each matrix element is stored in one cell of the array,
+and typical row and column operations are readily 
+implemented by simple cell logic.
+
+
+
+
+
+Document number:2283
+Rank:2
+Thinning Algorithms on Rectangular, Hexagonal, and Triangular Arrays
+
+In this report three thinning algorithms are
+developed: one each for use with rectangular, 
+hexagonal, and triangular arrays.
+
+
+
+
+
+Document number:2630
+Rank:3
+These algorithms generalize the Floyd
+algorithm and the Dantzig algorithm for finding 
+the shortest path between every pair of vertices in a directed graph.
+
+
+
+
+
+Document number:2956
+Rank:4
+Among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a data type, the need for
+a simple notation for allowing types of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.
+
+
+
+
+
+Document number:3148
+Rank:5
+Based on primitive notions of module, message,
+and transaction key, the methodology is shown to be independent
+of particular languages and machines.
+
+
+
+
+
+Document number:2138
+Rank:6
+This language
+is designed so as to be especially suitable 
+for use in writing production software systems for a
+specific machine (the PDP-10): compilers, operating 
+systems, etc.
+
+
+
+
+
+Document number:1457
+Rank:7
+Data Manipulation and Programming Problems
+in Automatic Information Retrieval
+
+Automatic information retrieval programs require
+the manipulation of a variety of different 
+data structures, including linear text, sparse matrices,
+and tree or list structures.
+
+
+
+
+
+Document number:3082
+Rank:8
+Time, Clocks, and the Ordering of Events in a Distributed System
+
+The concept of one event happening before
+another in a distributed system is examined, and
+is shown to define a partial ordering of the events.
+
+
+
+
+
+Document number:2932
+Rank:9
+Complexity of Computations
+
+The framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.
+
+
+
+
+
+Document number:2829
+Rank:10
+This paper describes extensions of this algorithm in
+the areas of texture <b>simulation</b> and lighting models.
+
+
+
+
+

@@ -1,0 +1,121 @@
+Query:40
+Document number:2956
+Rank:1
+Among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a <b>data</b> <b>type</b>, the need for
+a simple notation for allowing <b><b>type</b>s</b> of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one <b>type</b> to another.
+
+
+
+
+
+Document number:2630
+Rank:2
+On Computing Sets of Shortest Paths in a Graph
+
+Two algorithms are presented that construct
+the k shortest paths between every pair of vertices 
+in a directed graph.
+
+
+
+
+
+Document number:2289
+Rank:3
+A major challenge
+in the effective use of cellular arrays for the 
+solution of graph problems is the determination of algorithms
+that exploit the possibilities for parallelism, 
+especially for problems whose solutions appear to be inherently
+serial.
+
+
+
+
+
+Document number:2283
+Rank:4
+It is concluded that the algorithm operating in
+conjunction with the hexagonal array has features 
+which strike a balance between those of the other two arrays.
+
+
+
+
+
+Document number:2138
+Rank:5
+A major feature which contributes 
+to the realization of these goals is a mechanism permitting
+the definition of the representation of all 
+<b>data</b> <b>structures</b> in terms of the access algorithm for elements of the structure.
+
+
+
+
+
+Document number:2940
+Rank:6
+Specification and verification techniques that allow
+the properties of the generators for such iterations 
+to be expressed in the form of proof rules are developed.
+
+
+
+
+
+Document number:2265
+Rank:7
+An application 
+to <b>type</b> checking in Algol 60 is made, and the attendant
+problems faced for any notion of <b>type</b> checking 
+are discussed.
+
+
+
+
+
+Document number:2932
+Rank:8
+Complexity of Computations
+
+The framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.
+
+
+
+
+
+Document number:2195
+Rank:9
+In this technique the heuristic 
+of the problem is not embedded in the recognition algorithm
+but is expressed in a figure of merit.
+
+
+
+
+
+Document number:2651
+Rank:10
+The resulting
+treatment of <b>data</b> <b><b>type</b>s</b> includes provision for 
+programmer-defined <b>data</b> <b><b>type</b>s</b> <b>data</b> <b><b>type</b>s</b> and generic
+routines, programmer control over <b>type</b> conversion, 
+and very flexible <b>data</b> <b>type</b> behavior, in a context that
+allows efficient compiled code and compact <b>data</b> 
+representation.
+
+
+
+
+

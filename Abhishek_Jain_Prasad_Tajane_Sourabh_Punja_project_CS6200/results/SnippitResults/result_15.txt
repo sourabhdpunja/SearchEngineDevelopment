@@ -1,0 +1,119 @@
+Query:15
+Document number:2616
+Rank:1
+Objectives of these 
+conversions are mainly program debugging and <b><b>optimization</b></b>
+in practice.
+
+
+
+
+
+Document number:2263
+Rank:2
+The Conversion of Limited-Entry Decision Tables
+to Optimal and Near-Optimal Flowcharts: Two New 
+Algorithms
+
+Two new algorithms for deriving optimal and
+near-optimal flowcharts from limited entry decision 
+tables are presented.
+
+
+
+
+
+Document number:2080
+Rank:3
+The Nucleus of a Multiprogramming System
+
+This paper describes the philosophy and structure of a multiprogramming system 
+that can be extended with a hierarchy of operating systems to suit diverse 
+requirements of program scheduling and resource allocation.
+
+
+
+
+
+Document number:2321
+Rank:4
+On the Interface Between Computers and Data Communications Systems
+
+Future systems that combine computers, digital
+terminals, and communications equipment present 
+design <b><b>optimization</b></b> problems that require reconsideration
+of the traditional functional responsibilities 
+of the respective subsystems.
+
+
+
+
+
+Document number:1747
+Rank:5
+Examples of applications
+of the criteria concern the reading of 
+a time-of-day clock,  the synchronization of parallel
+processes, protection in multiprogrammed systems, 
+and the assignment of capability indexes.
+
+
+
+
+
+Document number:1231
+Rank:6
+Peephole Optimization
+
+Redundant instructions may be discarded during
+the final stage of compilation by using a simple 
+optimizing technique called peephole <b><b>optimization</b></b>.
+
+
+
+
+
+Document number:1959
+Rank:7
+The
+bases for this organization are a generalized interrupt structure
+and the newly introduced concept of "file tagging," which is the
+process of associating program structures and interrupt generating
+conditions with items in the data base.
+
+
+
+
+
+Document number:1947
+Rank:8
+Object code Optimization
+
+Methods of analyzing the control flow and data
+flow of programs during compilation are applied 
+to transforming the program to improve object time efficiency.
+
+
+
+
+
+Document number:2188
+Rank:9
+The parameters of the model are functions
+of the capabilities of the graphics hardware 
+and of the computational requirements of the graphics application.
+
+
+
+
+
+Document number:2195
+Rank:10
+The relation
+between the structure of the figure of merit and 
+the complexity of the <b><b>optimization</b></b> process is then discussed.
+
+
+
+
+

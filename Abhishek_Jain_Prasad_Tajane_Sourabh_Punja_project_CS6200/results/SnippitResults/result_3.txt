@@ -1,0 +1,114 @@
+Query:3
+Document number:3078
+Rank:1
+Analysis of the Availability of Computer
+Systems Using Computer- Aided Algebra
+
+Analytical results, related to the availability
+of a computer system constructed of unreliable 
+processors, are presented in this paper.
+
+
+
+
+
+Document number:2923
+Rank:2
+This paper proposes a simple general method 
+of high-level data flow analysis that allows free use
+of escape and jump statements, avoids large graphs 
+when compiling large programs, facilitates updating of
+data flow information to reflect program changes, 
+and derives new global information helpful in solving
+many familiar global flow analysis problems.
+
+
+
+
+
+Document number:2434
+Rank:3
+Several omissions in his model are noted,
+and new assumptions are introduced to overcome 
+these omissions.
+
+
+
+
+
+Document number:1613
+Rank:4
+One-Pass Compilation of Arithmetic Expressions for a Parallel Processor
+
+Under the assumption that a processor may have
+a multiplicity of arithmetic units, a compiler 
+for such a processor should produce object code to take
+advantage of possible parallelism of operation.
+
+
+
+
+
+Document number:1519
+Rank:5
+GEORGE 3-A General Purpose Time Sharing and Operating System
+
+An Operating System is described which will
+run on a wide variety of configurations of the 
+I.
+
+
+
+
+
+Document number:1410
+Rank:6
+This paper provides a statistical description 
+of the user input process in the SDC-ARPA general-purpose
+Time-Sharing System (TSS).
+
+
+
+
+
+Document number:1033
+Rank:7
+The system also
+permits simple specification of test and argument 
+arrays in single statements.
+
+
+
+
+
+Document number:1523
+Rank:8
+Implementation
+time was approximately six man-years, with the 
+majority of the code being written in FORTRAN.
+
+
+
+
+
+Document number:0637
+Rank:9
+This report presents the results of a project
+completed in May, 1961 in which the NELIAC system 
+was used to generate a compiler for the IBM 1401.
+
+
+
+
+
+Document number:1544
+Rank:10
+Audio output is provided directly
+to the telephone terminals, but the system 
+will normally be used in conjunction with remotely located
+high speed printing devices.
+
+
+
+
+

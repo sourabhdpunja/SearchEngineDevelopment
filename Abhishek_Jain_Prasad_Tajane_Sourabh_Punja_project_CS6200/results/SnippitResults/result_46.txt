@@ -1,0 +1,119 @@
+Query:46
+Document number:2289
+Rank:1
+In particular, several parallelized 
+algorithms are presented for the solution of certain
+spanning tree, distance, and path problems, with 
+direct applications to wire routing, PERT chart analysis,
+and the analysis of many types of networks.
+
+
+
+
+
+Document number:2283
+Rank:2
+Pictorial 
+results produced by each of the algorithms are presented
+and the relative performances of the algorithms 
+are compared.
+
+
+
+
+
+Document number:2630
+Rank:3
+These algorithms generalize the Floyd
+algorithm and the Dantzig algorithm for finding 
+the shortest path between every pair of vertices in a directed graph.
+
+
+
+
+
+Document number:2956
+Rank:4
+Among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a data type, the need for
+a simple notation for allowing types of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.
+
+
+
+
+
+Document number:3148
+Rank:5
+Based on primitive notions of module, message,
+and transaction key, the methodology is shown to be independent
+of particular languages and machines.
+
+
+
+
+
+Document number:2138
+Rank:6
+Prime design goals of the design are the
+ability to produce highly efficient object code, 
+to allow access to all relevant hardware features of
+the host machine, and to provide a rational means 
+by which to cope with the evolutionary nature of systems
+programs.
+
+
+
+
+
+Document number:2829
+Rank:7
+<b>The</b> shape
+and size of this weighting function are chosen 
+using digital signal processing <b>theory</b>.
+
+
+
+
+
+Document number:3082
+Rank:8
+Time, Clocks, and the Ordering of Events in a Distributed System
+
+<b>The</b> concept of one event happening before
+another in a distributed system is examined, and
+is shown to define a partial ordering of the events.
+
+
+
+
+
+Document number:2932
+Rank:9
+Complexity of Computations
+
+<b>The</b> framework for research in the <b>theory</b> of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.
+
+
+
+
+
+Document number:3124
+Rank:10
+An extension of APL is proposed that
+<b>includes</b> new primitive functions to manipulate the nesting
+level of arrays and new operators to assist in the
+construction of data-driven algorithms.
+
+
+
+
+

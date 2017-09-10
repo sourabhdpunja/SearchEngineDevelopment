@@ -1,0 +1,110 @@
+Query:26
+Document number:2616
+Rank:1
+Objectives of these 
+conversions are mainly program debugging and optimization
+in practice.
+
+
+
+
+
+Document number:1338
+Rank:2
+Additional Comments on a Problem in Concurrent Progamming Control
+
+CACM December, 1966
+
+Knuth, D. E.
+
+CA661211 JB March 30, 1978  9:12 AM
+
+
+
+
+
+Document number:2080
+Rank:3
+The Nucleus of a Multiprogramming System
+
+This paper describes the philosophy and structure of a multiprogramming system 
+that can be extended with a hierarchy of <b>operating</b> <b>systems</b> to suit diverse 
+requirements of program scheduling and resource allocation.
+
+
+
+
+
+Document number:1749
+Rank:4
+These sequential processes are placed
+at various hierarchical levels, in each 
+of which one or more independent abstractions have been
+implemented.
+
+
+
+
+
+Document number:2570
+Rank:5
+It is shown that 
+different algorithms suggested in the literature vary significantly
+in execution time and that the B-schedule 
+of Coffman and Graham is near-optimal.
+
+
+
+
+
+Document number:2950
+Rank:6
+The abstract model provides
+a framework for implementing flexible schedulers 
+in real <b>operating</b> <b>systems</b>.
+
+
+
+
+
+Document number:1959
+Rank:7
+DPL, a programming language and supervisory
+system in which these concepts are implemented, is used to illustrated
+the new organization which is proposed for management information <b>systems</b>.
+
+
+
+
+
+Document number:1719
+Rank:8
+Real-time data processing <b>systems</b> 
+as typified by the automated airline reservation system
+are discussed in this paper.
+
+
+
+
+
+Document number:2195
+Rank:9
+On the Optimal Detection of Curves in Noisy Pictures
+
+A technique for recognizing <b>systems</b> of lines
+is presented.
+
+
+
+
+
+Document number:1410
+Rank:10
+This paper provides a statistical description 
+of the user input process in the SDC-ARPA general-purpose
+Time-Sharing System (TSS).
+
+
+
+
+

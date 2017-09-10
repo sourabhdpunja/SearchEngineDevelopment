@@ -1,0 +1,122 @@
+Query:59
+Document number:2289
+Rank:1
+Cellular Arrays for the Solution of Graph Problems
+
+A cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits of
+memory and a small amount of combinational logic, 
+and communicates mainly with its immediate neighbors
+in the array.
+
+
+
+
+
+Document number:1457
+Rank:2
+Advantages of these programming languages
+for the <b>retrieval</b> application are examined, 
+and suggestions are made for the design of programming
+facilities to aid in information <b>retrieval</b>.
+
+
+
+
+
+Document number:2265
+Rank:3
+The determination
+of the type-wise correctness or incorrectness 
+of the program is resolved by reducing its corresponding
+Lambda calculus expression to one of two normal 
+forms, the constant "correct" for a type-wise correct
+program or the constant "error".
+
+
+
+
+
+Document number:2470
+Rank:4
+The
+questions of local and global environments and of 
+various modes of function calling and parameter passing
+are touched upon.
+
+
+
+
+
+Document number:3148
+Rank:5
+Based on primitive notions of module, message,
+and transaction key, the methodology is shown to be independent
+of particular languages and machines.
+
+
+
+
+
+Document number:2956
+Rank:6
+Among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a data type, the need for
+a simple notation for allowing types of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.
+
+
+
+
+
+Document number:2138
+Rank:7
+Prime design goals of the design are the
+ability to produce highly efficient object code, 
+to allow access to all relevant hardware features of
+the host machine, and to provide a rational means 
+by which to cope with the evolutionary nature of systems
+programs.
+
+
+
+
+
+Document number:2283
+Rank:8
+Pictorial 
+results produced by each of the algorithms are presented
+and the relative performances of the algorithms 
+are compared.
+
+
+
+
+
+Document number:2616
+Rank:9
+On the Conversion of Programs to Decision Tables: Method and Objectives
+
+The problems of converting programs to decision
+tables are investigated.
+
+
+
+
+
+Document number:2940
+Rank:10
+Specification and verification techniques that allow
+the properties of the generators for such iterations 
+to be expressed in the form of proof rules are developed.
+
+
+
+
+

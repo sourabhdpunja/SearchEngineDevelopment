@@ -1,0 +1,136 @@
+Query:14
+Document number:2080
+Rank:1
+The Nucleus of a Multiprogramming System
+
+This paper describes the philosophy and structure of a multiprogramming system 
+that can be extended with a hierarchy of operating systems to suit diverse 
+requirements of program scheduling and resource allocation.
+
+
+
+
+
+Document number:1747
+Rank:2
+Examples of <b>applications</b>
+of the criteria concern the reading of 
+a time-of-day clock,  the synchronization of parallel
+processes, protection in multiprogrammed systems, 
+and the assignment of capability indexes.
+
+
+
+
+
+Document number:0117
+Rank:3
+An Estimation of the Relative Efficiency of Two Internal Sorting Methods
+
+CACM November, 1960
+
+Nagler, H.
+
+CA601118 JB March 20, 1978  6:51 PM
+
+
+
+
+
+Document number:2358
+Rank:4
+Through the use of segmentation, however, 
+Multics provides direct hardware addressing by user and
+system programs of all information, independent 
+of its physical storage location.
+
+
+
+
+
+Document number:0776
+Rank:5
+Partition, Quicksort, and Find (Algorithm 62, 64, & 65)
+
+CACM August, 1963
+
+Randell, B.
+Russell, L. J.
+
+CA630822 JB March 13, 1978  8:23 PM
+
+
+
+
+
+Document number:0232
+Rank:6
+A High-Speed Sorting Procedure
+
+CACM January, 1960
+
+Frank, R. M.
+Lazarus, R. B.
+
+CA600104 JB March 22, 1978  2:27 PM
+
+
+
+
+
+Document number:3025
+Rank:7
+The Evolution of the DEC system 10
+
+The DEC system 10, also known as the PDP-10, evolved
+from the PDP-6 (circa 1963) over five generations 
+of <b>implementations</b> to presently include systems covering
+a price range of five to one.
+
+
+
+
+
+Document number:1175
+Rank:8
+Quickersort (Algorithm 271 [M1])
+
+CACM November, 1965
+
+Scowen, R. S.
+
+CA651106 JB March 6, 1978  5:02 PM
+
+
+
+
+
+Document number:1928
+Rank:9
+The main results obtained 
+are a clear and useful separation of structural and behavioral
+model description, a reduction of manual 
+tasks in converting Boolean logic into a structural model,
+the elimination of manual processes in achieving 
+exclusive simulation of activity, an event-scheduling
+technique which does not deteriorate in economy
+as the event queue grows in length, and a simulation
+procedure which deals effectively with any mixture 
+of serial and simultaneous activities.
+
+
+
+
+
+Document number:3128
+Rank:10
+A new synchronization mechanism is proposed, using 
+abstract objects called eventcounts and sequencers, that allows processes
+to control the ordering of events directly, rather than using mutual
+exclusion to protect manipulations of shared variables that control
+ordering of events.
+
+
+
+
+

@@ -1,0 +1,126 @@
+Query:55
+Document number:2289
+Rank:1
+Cellular Arrays for the Solution of Graph Problems
+
+A cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits of
+memory and a small amount of combinational logic, 
+and communicates mainly with its immediate neighbors
+in the array.
+
+
+
+
+
+Document number:2956
+Rank:2
+Among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a data type, the need for
+a simple notation for allowing types of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.
+
+
+
+
+
+Document number:2283
+Rank:3
+It is found that the algorithm operating
+with the triangular array is the most sensitive 
+to image irregularities and noise, yet it will yield
+a thinned image with an overall reduced number of 
+points.
+
+
+
+
+
+Document number:1457
+Rank:4
+Data Manipulation and Programming Problems
+in Automatic Information Retrieval
+
+Automatic information retrieval programs require
+the manipulation of a variety of different 
+data structures, including linear text, sparse matrices,
+and tree or list structures.
+
+
+
+
+
+Document number:3148
+Rank:5
+This is part of an ambitious
+program of development in advanced programming <b>languages</b>, and relations
+with other aspects of the project are also discussed.
+
+
+
+
+
+Document number:2265
+Rank:6
+The determination
+of the type-wise correctness or incorrectness 
+of the program is resolved by reducing its corresponding
+Lambda calculus expression to one of two normal 
+forms, the constant "correct" for a type-wise correct
+program or the constant "error".
+
+
+
+
+
+Document number:2630
+Rank:7
+On Computing Sets of Shortest Paths in a Graph
+
+Two algorithms are presented that construct
+the k shortest paths between every pair of vertices 
+in a directed graph.
+
+
+
+
+
+Document number:2138
+Rank:8
+A major feature which contributes 
+to the realization of these goals is a mechanism permitting
+the definition of the representation of all 
+data structures in terms of the access algorithm for elements of the structure.
+
+
+
+
+
+Document number:2616
+Rank:9
+On the Conversion of Programs to Decision Tables: Method and Objectives
+
+The problems of converting programs to decision
+tables are investigated.
+
+
+
+
+
+Document number:2470
+Rank:10
+The
+questions of local and global environments and of 
+various modes of function calling and parameter passing
+are touched upon.
+
+
+
+
+

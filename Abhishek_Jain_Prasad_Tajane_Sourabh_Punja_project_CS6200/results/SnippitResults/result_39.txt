@@ -1,0 +1,117 @@
+Query:39
+Document number:2289
+Rank:1
+A major challenge
+in the effective use of cellular arrays for the 
+solution of graph problems is the determination of algorithms
+that exploit the possibilities for parallelism, 
+especially for problems whose solutions appear to be inherently
+serial.
+
+
+
+
+
+Document number:1693
+Rank:2
+Constructs
+like the ALGOL 60 for-statements,and if-statements 
+are not basic; they are special <b>types</b> of procedures.
+
+
+
+
+
+Document number:2625
+Rank:3
+It is predicted that the use of tags to 
+identify capabilities will dominate.
+
+
+
+
+
+Document number:2195
+Rank:4
+The method described is suitable for parallel 
+processing because the operations relative to each
+state can be computed in parallel, and the number
+of stages is equal to the length N of the curves (or
+to log2 N if the approximate method is used).
+
+
+
+
+
+Document number:2126
+Rank:5
+The system and its base language are appraised with 
+respect to efficiency, flexibility, and utility
+for different categories of users.
+
+
+
+
+
+Document number:2950
+Rank:6
+A
+criterion for the implementation efficiency of an 
+algorithm is developed and results in the <b>definition</b>
+of time-invariant algorithms, which include most 
+of the commonly implemented ones.
+
+
+
+
+
+Document number:2956
+Rank:7
+Among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a <b>data</b> <b>type</b>, the need for
+a simple notation for allowing <b>type</b>s of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one <b>type</b> to another.
+
+
+
+
+
+Document number:1563
+Rank:8
+A Method for Finding Hamilton Paths and Knight's Tours
+
+The use of Warnsdorff's rule for finding a
+knight's tour is generalized and applied to the 
+problem of finding a Hamilton path in a graph.
+
+
+
+
+
+Document number:3124
+Rank:9
+An extension of APL is proposed that
+includes new primitive functions to manipulate the nesting
+level of arrays and new <b>operators</b> to assist in the
+construction of <b>data</b>-driven algorithms.
+
+
+
+
+
+Document number:3031
+Rank:10
+First, it is shown how
+the use of algebraic axiomatizations can simplify 
+the process of proving the correctness of an implementation
+of an <b>abstract</b> <b>data</b> <b>type</b>.
+
+
+
+
+

@@ -1,0 +1,132 @@
+Query:28
+Document number:2892
+Rank:1
+A Study of Line Overhead in the Arpanet
+
+The form, extent, and effect of the communication line
+overhead in the ARPANET are considered.
+
+
+
+
+
+Document number:2578
+Rank:2
+Self-stabilizing Systems in Spite of Distributed Control
+
+CACM November, 1974
+
+Dijkstra, E. W.
+
+multiprocessing, networks, self-stabilization, synchronization,
+mutual exclusion, robustness, sharing, 
+error recovery, distributed control, harmonious cooperation, self-repair
+
+4.32
+
+CA741106 JB January 16,1978  10:18 AM
+
+
+
+
+
+Document number:2890
+Rank:3
+These models show that
+adaptive routing does not satisfy the necessary 
+conditions for an optimal routing,  Adaptive routing tends
+to overuse the direct path and underuse alternate 
+routes because it does not consider the impact of its
+current routing decision on the future state of 
+the <b>network</b>.
+
+
+
+
+
+Document number:2949
+Rank:4
+A Correctness Proof of a Topology Information
+Main tenance Protocol for a Distributed Computer 
+Network
+
+In order for the nodes of a distributed computer
+<b>network</b> to communicate, each node must have 
+<b>information</b> about the <b>network</b>'s topology.
+
+
+
+
+
+Document number:3032
+Rank:5
+The algorithm is described as being practical 
+ because it is not optimal according to metrics developed
+for its analysis in this paper, and also because 
+it can be implemented in existing networks with less complexity
+than that required for the known alternatives.
+
+
+
+
+
+Document number:2812
+Rank:6
+The analyzed problem statement 
+was translated to the form necessary for use by the
+SODA (Systems Optimization and Design Algorithm)
+program for the generation of alternative specifications
+of program modules and logical database structures.
+
+
+
+
+
+Document number:1747
+Rank:7
+Examples of applications
+of the criteria concern the reading of 
+a time-of-day clock,  the synchronization of parallel
+processes, protection in multiprogrammed systems, 
+and the assignment of capability indexes.
+
+
+
+
+
+Document number:1959
+Rank:8
+The
+bases for this organization are a generalized interrupt structure
+and the newly introduced concept of "file tagging," which is the
+process of associating program structures and interrupt generating
+conditions with items in the data base.
+
+
+
+
+
+Document number:2630
+Rank:9
+These <b>algorithms</b> generalize the Floyd
+algorithm and the Dantzig algorithm for finding 
+the shortest path between every pair of vertices in a directed graph.
+
+
+
+
+
+Document number:2949
+Rank:10
+A Correctness Proof of a Topology Information
+Main tenance Protocol for a Distributed Computer 
+Network
+
+In order for the nodes of a distributed computer
+<b>network</b> to communicate, each node must have 
+<b>information</b> about the <b>network</b>'s topology.
+
+
+
+
+

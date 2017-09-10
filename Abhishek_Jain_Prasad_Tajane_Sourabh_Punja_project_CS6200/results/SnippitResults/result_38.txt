@@ -1,0 +1,121 @@
+Query:38
+Document number:2630
+Rank:1
+On Computing Sets of Shortest Paths in a Graph
+
+Two algorithms are presented that construct
+the k shortest paths between every pair of vertices 
+in a directed graph.
+
+
+
+
+
+Document number:2289
+Rank:2
+These algorithms exhibit a computation time that in
+many cases grows at a rate not exceeding log2 n, 
+where n is the number of nodes in the graph.
+
+
+
+
+
+Document number:2558
+Rank:3
+Protection in Programming Languages
+
+Linguistic mechanisms which can be used to protect
+one subprogram from another's malfunctioning 
+are described.
+
+
+
+
+
+Document number:2932
+Rank:4
+Complexity of Computations
+
+The framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.
+
+
+
+
+
+Document number:2651
+Rank:5
+The Treatment of <b>Data</b> <b>Types</b> in EL1
+
+In constructing a general purpose programming
+language, a key issue is providing a sufficient 
+set of data types and associated operations in a manner
+that permits both natural problem-oriented notation 
+and efficient implementation.
+
+
+
+
+
+Document number:1563
+Rank:6
+A Method for Finding Hamilton Paths and Knight's Tours
+
+The use of Warnsdorff's rule for finding a
+knight's tour is generalized and applied to the 
+problem of finding a Hamilton path in a graph.
+
+
+
+
+
+Document number:2958
+Rank:7
+Among
+the examples presented is a top-down development 
+of a symbol table for a block structured language; a discussion
+of the proof of its correctness is given.
+
+
+
+
+
+Document number:3124
+Rank:8
+One of the approaches is used to define an
+APL array to be a recursive data structure equivalent to a tree structure
+in which all data is stored at the leaves as homogeneous
+arrays of numbers and characters.
+
+
+
+
+
+Document number:2892
+Rank:9
+A Study of Line Overhead in the Arpanet
+
+The form, extent, and effect of the communication line
+overhead in the ARPANET are considered.
+
+
+
+
+
+Document number:2632
+Rank:10
+Mechanisms are presented 
+for dealing with objects, including the creation of new
+<b>type</b>s, specification of new operations applicable 
+to a given <b>type</b>, sharing, and protection of any reference
+to a given object against improper application 
+of any of the operations defined with respect to that
+<b>type</b> of object.
+
+
+
+
+

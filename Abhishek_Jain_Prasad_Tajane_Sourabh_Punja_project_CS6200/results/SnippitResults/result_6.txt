@@ -1,0 +1,125 @@
+Query:6
+Document number:2841
+Rank:1
+The principal features 
+of the system are: (1) the surfaces are rendered as isoparametric
+line drawings on a head-mounted display, 
+and they are designed with the aid of a three-dimensional
+"wand," which allows 3-D movements of the points 
+controlling the shapes of the surfaces, (2) all of the
+interactions with the surfaces are in real-time, 
+and (3) the mathematical formulations used assume no
+knowledge of them by the user of the system.
+
+
+
+
+
+Document number:0276
+Rank:2
+Program Organization and Record Keeping for Dynamic Storage Allocation
+
+The material presented in this paper is part
+of the design plan of the core allocation portion 
+of the ASCII-MATIC Programming System.
+
+
+
+
+
+Document number:1829
+Rank:3
+The choice made in designing the graphic 
+monitor, given the constraints of the existing hardware
+and computer system, are discussed.
+
+
+
+
+
+Document number:1534
+Rank:4
+The use of the drums, the buffering of input and output
+on slow peripherals, and the execution of normal 
+job stack work are described.
+
+
+
+
+
+Document number:2078
+Rank:5
+Representations for Space Planning
+
+Problems involving the arrangement of objects in two- 
+or three-space where the objective function primarily consists
+of derivatives of the distance between objects or their arrangement
+are called space <b>planning</b> problems.
+
+
+
+
+
+Document number:1087
+Rank:6
+Problems in Automatic Abstracting
+
+A variety of problems concerning the design
+and operation of an automatic abstracting system 
+are discussed.
+
+
+
+
+
+Document number:2826
+Rank:7
+Interactive Skeleton Techniques for Enhancing
+Motion Dynamics in Key Frame Animation
+
+A significant increase in the capability for
+controlling <b>motion</b> <b>dynamics</b> in key frame animation 
+is achieved through skeleton control.
+
+
+
+
+
+Document number:1515
+Rank:8
+A Computer System for Inference Execution and Data Retrieval
+
+This paper presents a RAND project concerned
+with the use of computers as assistants in the 
+logical analysis of large collections of factual data.
+
+
+
+
+
+Document number:2868
+Rank:9
+Distinctive 
+features of the design were the use of capabilities
+for protection, and the organization of the system 
+into a sequence of layers, each building on the facilities
+provided by earlier ones and protecting itself 
+from the malfunctions of later ones.
+
+
+
+
+
+Document number:3078
+Rank:10
+Analysis of the Availability of Computer
+Systems Using Computer- Aided Algebra
+
+Analytical results, related to the availability
+of a computer system constructed of unreliable 
+processors, are presented in this paper.
+
+
+
+
+

@@ -1,0 +1,120 @@
+Query:11
+Document number:1747
+Rank:1
+Three possible criteria of this
+kind are input recordability, input specifiability, 
+and asynchronous reproducibility of output.
+
+
+
+
+
+Document number:2246
+Rank:2
+A popular way of 
+accomplishing this is to encode the software in a specially
+designed machine-independent language and 
+then to map this language, often using a macro processor,
+into the assembly language of each desired 
+object machine.
+
+
+
+
+
+Document number:1188
+Rank:3
+The purposes and requirements 
+of the design language are enumerated.
+
+
+
+
+
+Document number:2358
+Rank:4
+Information is stored
+in segments each of which is potentially sharable 
+and carries its own independent attributes of size and access
+privilege.
+
+
+
+
+
+Document number:1306
+Rank:5
+A Class of Unambiguous Computer <b>Languages</b>
+
+Discussed in this paper is the concept of
+a fully nested computer language which may be one 
+means of designing computer languages which would be completely
+free of ambiguities.
+
+
+
+
+
+Document number:1928
+Rank:6
+The main results obtained 
+are a clear and useful separation of structural and behavioral
+model description, a reduction of manual 
+tasks in converting Boolean logic into a structural model,
+the elimination of manual processes in achieving 
+exclusive simulation of activity, an event-scheduling
+technique which does not deteriorate in economy
+as the event queue grows in length, and a simulation
+procedure which deals effectively with any mixture 
+of serial and simultaneous activities.
+
+
+
+
+
+Document number:2379
+Rank:7
+The system is defined by
+a combination of microprograms and software.
+
+
+
+
+
+Document number:3128
+Rank:8
+An implementation of eventcount
+s and sequencers in a system with shared memory is described.
+
+
+
+
+
+Document number:3025
+Rank:9
+CACM January, 1978
+
+Bell, C.
+Kotok, A.
+Hastings, T.
+Hill, R.
+
+computer structures, architecture, operating system, timesharing
+
+4.32 6.21 6.3
+
+CA780105 JB March 28, 1978  5:31 PM
+
+
+
+
+
+Document number:2950
+Rank:10
+Various classes of scheduling algorithms
+are defined and related to existing algorithms.
+
+
+
+
+

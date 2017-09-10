@@ -1,0 +1,112 @@
+Query:9
+Document number:2870
+Rank:1
+A Lattice Model of Secure Information Flow
+
+This paper investigates mechanisms that guarantee
+secure information flow in a computer system.
+
+
+
+
+
+Document number:2876
+Rank:2
+Intentional Resolution of Privacy Protection in Database Systems
+
+Traditionally, privacy protection in database
+systems is understood to be the control over 
+what information a given user can get from a database.
+
+
+
+
+
+Document number:3128
+Rank:3
+Direct control of ordering seems to simplify
+correctness arguments and also simplifies implementation in <b>distributed</b>
+systems.
+
+
+
+
+
+Document number:2950
+Rank:4
+The abstract model provides
+a framework for implementing flexible schedulers 
+in real <b>operating</b> systems.
+
+
+
+
+
+Document number:3025
+Rank:5
+The origin and 
+evolution of the hardware, <b>operating</b> system, and languages
+are described in terms of technological change, 
+user requirements, and user developments.
+
+
+
+
+
+Document number:3082
+Rank:6
+Time, Clocks, and the Ordering of Events in a Distributed System
+
+The concept of one event happening before
+another in a <b>distributed</b> system is examined, and
+is shown to define a partial ordering of the events.
+
+
+
+
+
+Document number:1959
+Rank:7
+The
+bases for this organization are a generalized interrupt structure
+and the newly introduced concept of "file tagging," which is the
+process of associating program structures and interrupt generating
+conditions with items in the data base.
+
+
+
+
+
+Document number:2626
+Rank:8
+Protection and the Control of Information Sharing in Multics
+
+The design of mechanisms to control the sharing
+of information in the Multics system is described.
+
+
+
+
+
+Document number:2541
+Rank:9
+It also suggested an important
+new concept for <b>operating</b> systems: separation 
+of the scheduling from the maintenance functions in resource
+allocation.
+
+
+
+
+
+Document number:1572
+Rank:10
+Unfortunately, these systems often 
+do not respond to changes in the manner that intuition
+would suggest, and there are few guides to assist 
+in the analysis of performance characteristics.
+
+
+
+
+

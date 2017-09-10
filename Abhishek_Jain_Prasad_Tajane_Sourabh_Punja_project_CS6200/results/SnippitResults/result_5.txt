@@ -1,0 +1,117 @@
+Query:5
+Document number:2379
+Rank:1
+<b>The</b> system was
+produced to test the effect of machine architecture 
+on complexity of software.
+
+
+
+
+
+Document number:2299
+Rank:2
+An Extensible Editor for a Small Machine with Disk Storage
+
+A <b>design</b> philosophy for developing a sophisticated
+utility program is illustrated by the actual 
+<b>design</b> and <b>implementation</b> of a text editor.
+
+
+
+
+
+Document number:1829
+Rank:3
+<b>The</b> structure 
+of the monitor program and the <b>human</b> and program interfaces
+are described.
+
+
+
+
+
+Document number:2841
+Rank:4
+<b>The</b> principal features 
+of the system are: (1) the surfaces are rendered as isoparametric
+line drawings on a head-mounted display, 
+and they are designed with the aid of a three-dimensional
+"wand," which allows 3-D movements of the points 
+controlling the shapes of the surfaces, (2) all of the
+interactions with the surfaces are in real-time, 
+and (3) the mathematical formulations used assume no
+knowledge of them by the <b>user</b> of the system.
+
+
+
+
+
+Document number:2501
+Rank:5
+WYLBUR: An Interactive Text Editing and Remote Job Entry System
+
+WYLBUR is a comprehensive system for manipulating
+all kinds of text, such as computer programs, 
+letters, and manuscripts, using typewriter terminals
+connected to a computer.
+
+
+
+
+
+Document number:1534
+Rank:6
+<b>The</b> use of the drums, the buffering of input and output
+on slow peripherals, and the execution of normal 
+job stack work are described.
+
+
+
+
+
+Document number:2188
+Rank:7
+<b>The</b> parameters of the model are functions
+of the capabilities of the graphics hardware 
+and of the computational requirements of the graphics application.
+
+
+
+
+
+Document number:2820
+Rank:8
+Most components 
+of CAPS are table driven, both to reduce the space needed
+for <b>implementation</b> and to increase the flexibility 
+of the multilingual system.
+
+
+
+
+
+Document number:2626
+Rank:9
+Protection and the Control of Information Sharing in Multics
+
+<b>The</b> <b>design</b> of mechanisms to control the sharing
+of information in the Multics system is described.
+
+
+
+
+
+Document number:2868
+Rank:10
+Distinctive 
+features of the <b>design</b> were the use of capabilities
+for protection, and the organization of the system 
+into a sequence of layers, each building on the facilities
+provided by earlier ones and protecting itself 
+from the malfunctions of later ones.
+
+
+
+
+

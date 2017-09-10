@@ -1,0 +1,120 @@
+Query:17
+Document number:2616
+Rank:1
+On the Conversion of Programs to Decision Tables: Method and Objectives
+
+The problems of converting programs to decision
+tables are investigated.
+
+
+
+
+
+Document number:1934
+Rank:2
+This representation reduces
+the choice of the best order of computation 
+to a specific problem under the theory of graphs.
+
+
+
+
+
+Document number:2080
+Rank:3
+The Nucleus of a Multiprogramming System
+
+This paper describes the philosophy and structure of a multiprogramming system 
+that can be extended with a hierarchy of operating systems to suit diverse 
+requirements of program scheduling and resource allocation.
+
+
+
+
+
+Document number:1134
+Rank:4
+The subject of this paper is the <b>intermediate</b>
+language and methods of manipulating it.
+
+
+
+
+
+Document number:2321
+Rank:5
+On the Interface Between Computers and Data Communications Systems
+
+Future systems that combine computers, digital
+terminals, and communications equipment present 
+design optimization problems that require reconsideration
+of the traditional functional responsibilities 
+of the respective subsystems.
+
+
+
+
+
+Document number:1410
+Rank:6
+Interarrival Statistics for Time Sharing Systems
+
+The optimization of time-shared system performance
+requires the description of the stochastic 
+processes governing the user inputs and the program activity.
+
+
+
+
+
+Document number:2570
+Rank:7
+A Comparison of List Schedules for Parallel Processing Systems
+
+The problem of scheduling two or more processors
+to minimize the execution time of a program 
+which consists of a set of partially ordered tasks
+is studied.
+
+
+
+
+
+Document number:2379
+Rank:8
+The system was
+produced to test the effect of <b>machine</b> architecture 
+on complexity of software.
+
+
+
+
+
+Document number:1959
+Rank:9
+The
+bases for this organization are a generalized interrupt structure
+and the newly introduced concept of "file tagging," which is the
+process of associating program structures and interrupt generating
+conditions with items in the data base.
+
+
+
+
+
+Document number:1719
+Rank:10
+A Methodology for Calculating and
+Optimizing Real-Time System Performance
+
+The continually increasing size, complexity,
+number of types, and cost of data processing systems 
+are causing serious re-examination within government
+and industry of the criteria for and methods of 
+calculating and optimizing data processing system cost
+and performance.
+
+
+
+
+

@@ -1,0 +1,129 @@
+Query:44
+Document number:1804
+Rank:1
+Coloring Polygonal Regions (Algorithm 364 [Z])
+
+CACM December, 1969
+
+Herriot, R. G.
+
+coloring polygonal regions, coloring planar surfaces,
+drawing pictures, shading enclosed regions
+
+4.9
+
+CA691208 JB February 15, 1978  2:27 PM
+
+
+
+
+
+Document number:2630
+Rank:2
+On Computing Sets of Shortest Paths in a Graph
+
+Two algorithms are presented that construct
+the k shortest paths between every pair of vertices 
+in a directed graph.
+
+
+
+
+
+Document number:1891
+Rank:3
+The display is interactive and
+can be viewed by a large group of people at the 
+same time.
+
+
+
+
+
+Document number:2956
+Rank:4
+Among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a data type, the need for
+a simple notation for allowing types of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.
+
+
+
+
+
+Document number:2004
+Rank:5
+A Procedure for Generation of Three-dimensional
+Half-toned Computer Graphics Presentations
+
+A description is given of an algorithm for producing computer generated 
+half-tone presentations of three-dimensional polygonal surface structures.
+
+
+
+
+
+Document number:2382
+Rank:6
+Reconstruction of Pictures from Their Projections (Corrigendum)
+
+CACM February, 1972 
+
+Gordon, R.
+Herman, G. T.
+
+CA720209 JB January 31, 1978  3:42 PM
+
+
+
+
+
+Document number:2829
+Rank:7
+This paper describes extensions of this algorithm in
+the areas of <b>texture</b> simulation and lighting models.
+
+
+
+
+
+Document number:3082
+Rank:8
+Time, Clocks, and the Ordering of Events in a Distributed System
+
+The concept of one event happening before
+another in a distributed system is examined, and
+is shown to define a partial ordering of the events.
+
+
+
+
+
+Document number:2932
+Rank:9
+Complexity of Computations
+
+The framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.
+
+
+
+
+
+Document number:2514
+Rank:10
+Examples are given involving array languages
+consisting of simple geometrical patterns, as 
+well as a language of "neuron pictures."
+
+
+
+
+

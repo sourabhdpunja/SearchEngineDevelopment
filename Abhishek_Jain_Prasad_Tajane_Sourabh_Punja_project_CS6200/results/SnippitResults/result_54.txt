@@ -1,0 +1,122 @@
+Query:54
+Document number:2289
+Rank:1
+Cellular Arrays for the Solution of Graph Problems
+
+A cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits of
+memory and a small amount of combinational logic, 
+and communicates mainly with its immediate neighbors
+in the array.
+
+
+
+
+
+Document number:2283
+Rank:2
+Pictorial 
+results produced by each of the algorithms are presented
+and the relative performances of the algorithms 
+are compared.
+
+
+
+
+
+Document number:2956
+Rank:3
+Among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a <b>data</b> type, the need for
+a simple notation for allowing types of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.
+
+
+
+
+
+Document number:2630
+Rank:4
+On Computing Sets of Shortest Paths in a Graph
+
+Two algorithms are presented that construct
+the k shortest paths between every pair of vertices 
+in a directed graph.
+
+
+
+
+
+Document number:3148
+Rank:5
+This is part of an ambitious
+program of development in advanced <b>programming</b> languages, and relations
+with other aspects of the project are also discussed.
+
+
+
+
+
+Document number:2616
+Rank:6
+On the Conversion of Programs to Decision Tables: Method and Objectives
+
+The problems of converting programs to decision
+tables are investigated.
+
+
+
+
+
+Document number:2138
+Rank:7
+A major feature which contributes 
+to the realization of these goals is a mechanism permitting
+the definition of the representation of all 
+<b>data</b> structures in terms of the access algorithm for elements of the structure.
+
+
+
+
+
+Document number:1457
+Rank:8
+A variety 
+of <b>data</b> representations which have been used to describe
+structured information are then examined, and 
+the characteristics of various processing languages are
+outlined in the light of the procedures requiring 
+implementation.
+
+
+
+
+
+Document number:2265
+Rank:9
+This paper attempts to isolate 
+the notion of type checking and presents a partial
+solution to the type checking problem based on the 
+notions of abstraction and application of functions.
+
+
+
+
+
+Document number:3124
+Rank:10
+An extension of APL is proposed that
+includes new primitive functions to manipulate the nesting
+level of arrays and new operators to assist in the
+construction of <b>data</b>-driven algorithms.
+
+
+
+
+

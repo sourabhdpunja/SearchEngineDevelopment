@@ -1,0 +1,112 @@
+Query:50
+Document number:2289
+Rank:1
+These algorithms exhibit a computation time that in
+many cases grows at a rate not exceeding log2 n, 
+where n is the number of nodes in the graph.
+
+
+
+
+
+Document number:2283
+Rank:2
+It is concluded that the algorithm operating in
+conjunction with the hexagonal array has features 
+which strike a balance between those of the other two arrays.
+
+
+
+
+
+Document number:2630
+Rank:3
+On Computing Sets of Shortest Paths in a Graph
+
+Two algorithms are presented that construct
+the k shortest paths between every pair of vertices 
+in a directed graph.
+
+
+
+
+
+Document number:2956
+Rank:4
+Some Ideas on Data Types in High-Level Languages
+
+A number of issues are explored concerning the
+notion that a data type is a set of values together 
+with a set of primitive operations on those values.
+
+
+
+
+
+Document number:3148
+Rank:5
+This is part of an ambitious
+program of development in advanced programming languages, and relations
+with other aspects of the project are also discussed.
+
+
+
+
+
+Document number:2138
+Rank:6
+This language
+is designed so as to be especially suitable 
+for use in writing production software systems for a
+specific machine (the PDP-10): compilers, operating 
+systems, etc.
+
+
+
+
+
+Document number:1457
+Rank:7
+Advantages of these programming languages
+for the <b>retrieval</b> application are examined, 
+and suggestions are made for the design of programming
+facilities to aid in <b>information</b> <b>retrieval</b>.
+
+
+
+
+
+Document number:3082
+Rank:8
+Time, Clocks, and the Ordering of Events in a Distributed System
+
+The concept of one event happening before
+another in a distributed system is examined, and
+is shown to define a partial ordering of the events.
+
+
+
+
+
+Document number:2829
+Rank:9
+This paper describes extensions of this algorithm in
+the areas of texture simulation and lighting models.
+
+
+
+
+
+Document number:2932
+Rank:10
+Complexity of Computations
+
+The framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.
+
+
+
+
+

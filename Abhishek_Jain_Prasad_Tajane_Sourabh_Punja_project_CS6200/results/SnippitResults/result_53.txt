@@ -1,0 +1,120 @@
+Query:53
+Document number:2289
+Rank:1
+For example, the adjacency
+matrix of a graph is easily mapped onto an array; 
+each matrix element is stored in one cell of the array,
+and typical row and column operations are readily 
+implemented by simple cell logic.
+
+
+
+
+
+Document number:2283
+Rank:2
+Thinning Algorithms on Rectangular, Hexagonal, and Triangular Arrays
+
+In this report three thinning algorithms are
+developed: one each for use with rectangular, 
+hexagonal, and triangular arrays.
+
+
+
+
+
+Document number:2630
+Rank:3
+CACM June, 1974
+
+Minieka, E.
+
+graph, network, shortest path, algorithm
+
+5.32
+
+CA740616 JB January 17, 1978  1:55 PM
+
+
+
+
+
+Document number:2956
+Rank:4
+Some Ideas on Data Types in High-Level Languages
+
+A number of issues are explored concerning the
+notion that a data type is a set of values together 
+with a set of primitive operations on those values.
+
+
+
+
+
+Document number:3148
+Rank:5
+Based on primitive notions of module, message,
+and transaction key, the methodology is shown to be independent
+of particular languages and machines.
+
+
+
+
+
+Document number:2138
+Rank:6
+Prime design goals of the design are the
+ability to produce highly efficient object code, 
+to allow access to all relevant hardware features of
+the host machine, and to provide a rational means 
+by which to cope with the evolutionary nature of systems
+programs.
+
+
+
+
+
+Document number:2932
+Rank:7
+Complexity of Computations
+
+The framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.
+
+
+
+
+
+Document number:3124
+Rank:8
+Recursive Data Structures in APL
+
+A <b>mathematical</b> study of three approaches for defining nested
+arrays in APL is presented.
+
+
+
+
+
+Document number:1457
+Rank:9
+Advantages of these programming languages
+for the retrieval application are examined, 
+and suggestions are made for the design of programming
+facilities to aid in information retrieval.
+
+
+
+
+
+Document number:2829
+Rank:10
+Several examples of images synthesized 
+using these new techniques are included.
+
+
+
+
+

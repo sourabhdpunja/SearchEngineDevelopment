@@ -1,0 +1,194 @@
+(dp0
+I1
+S'what articles exist which deal with tss time sharing system an operating system for ibm computers setl granting duplex-computer sprague'
+p1
+sI2
+S'i am interested in articles written either by prieve or udo pooch prieve b pooch u setl granting duplex-computer sprague'
+p2
+sI3
+S'intermediate languages used in construction of multi-targeted compilers tcoll ca631105 ca631104 ca631103 ca631102'
+p3
+sI4
+S"i'm interested in mechanisms for communicating between disjoint processes possibly but not exclusively in a distributed environment i would rather see descriptions of complete mechanisms with or without implementations as opposed to theoretical work on the abstract problem remote procedure calls and message-passing are examples of my interests bosarge succession straight 125-word"
+p4
+sI5
+S"i'd like papers on design and implementation of editing interfaces window-managers command interpreters etc the essential issues are human interface design with views on improvements to user efficiency effectiveness and satisfaction eshed presser reconstructions minimal-total-processing"
+p5
+sI6
+S'interested in articles on robotics motion planning particularly the geometric and combinatorial aspects we are not interested in the dynamics of arm motion founding digit statically hough'
+p6
+sI7
+S'i am interested in distributed algorithms - concurrent programs in which processes communicate and synchronize by using message passing areas of particular interest include fault-tolerance and techniques for understanding the correctness of these algorithms minimal-total-processing experimentally bringing q-d'
+p7
+sI8
+S'addressing schemes for resources in networks resource addressing in network operating systems ca631102 ca631101 goldfinger saylor'
+p8
+sI9
+S'security considerations in local networks network operating systems and distributed systems ca631103 ca631102 ca631101 goldfinger'
+p9
+sI10
+S'parallel languages languages for parallel computation ca631109 ca631108 ca631106 ca631105'
+p10
+sI11
+S'setl very high level languages woods ca631109 ca631108 ca631106'
+p11
+sI12
+S'portable operating systems four prefix woods ca631109'
+p12
+sI13
+S'code optimization for space efficiency woods ca631109 ca631108 ca631106'
+p13
+sI14
+S'find all discussions of optimal implementations of sort algorithms for database management applications ca631101 goldfinger saylor setl'
+p14
+sI15
+S'find all discussions of horizontal microcode optimization with special emphasis on optimization of loops and global optimization granting duplex-computer sprague aggregations'
+p15
+sI16
+S'find all descriptions of file handling in operating systems based on multiple processes and message passing setl granting duplex-computer sprague'
+p16
+sI17
+S'optimization of intermediate and machine code ca631109 ca631108 ca631106 ca631105'
+p17
+sI18
+S'languages and compilers for parallel processors especially highly horizontal microcoded machines code compaction ca631101 goldfinger saylor setl'
+p18
+sI19
+S'parallel algorithms 1,777 four prefix woods'
+p19
+sI20
+S'graph theoretic algorithms applicable to sparse matrices ca631108 ca631106 ca631105 ca631104'
+p20
+sI21
+S'computational complexity intractability class-complete reductions algorithms and efficiency ca631106 ca631105 ca631104 ca631103'
+p21
+sI22
+S'i am interested in hidden-line and hidden-surface algorithms for cylinders toroids spheres and cones this is a rather specialized topic in computer graphics founding digit statically hough'
+p22
+sI23
+S'distributed computing structures and algorithms woods ca631109 ca631108 ca631106'
+p23
+sI24
+S'applied stochastic processes four prefix woods ca631109'
+p24
+sI25
+S'performance evaluation and modelling of computer systems ca631108 ca631106 ca631105 ca631104'
+p25
+sI26
+S'concurrency control mechanisms in operating systems ca631109 ca631108 ca631106 ca631105'
+p26
+sI27
+S'memory management aspects of operating systems ca631109 ca631108 ca631106 ca631105'
+p27
+sI28
+S'any information on packet radio networks of particular interest are algorithms for packet routing and for dealing with changes in network topography i am not interested in the hardware used in the network reconstructions minimal-total-processing experimentally bringing'
+p28
+sI29
+S'number-theoretic algorithms especially involving prime number series sieves and chinese remainder theorem ca631102 ca631101 goldfinger saylor'
+p29
+sI30
+S'articles on text formatting systems including what you see is what you get systems examples t nroff scribe bravo sprague aggregations ca730915 alphabetic'
+p30
+sI31
+S"i'd like to find articles describing the use of singular value decomposition in digital image processing applications include finding approximations to the original image and restoring images that are subject to noise an article on the subject is h andrews and c patterson outer product expansions and their uses in digital image processing american mathematical andrews h patterson c elegant second 273 274"
+p31
+sI32
+S"i'd like to find articles describing graph algorithms that are based on the eigenvalue decomposition or singular value decomposition of the ajacency matrix for the graph i'm especially interested in any heuristic algorithms for graph coloring and graph isomorphism using this method phase-distorted wegner sturgis viable"
+p32
+sI33
+S"articles about the sensitivity of the eigenvalue decomposition of real matrices in particular zero-one matrices i'm especially interested in the separation of eigenspaces corresponding to distinct eigenvalues articles on the subject c davis and w kahn the rotation of eigenvectors by a permutation siam j numerical analysis vol 7, no 1 (1970); g stewart error bounds for approximate invariant subspaces of closed linear operators siam j numerical analysis vol 8, no 4 (1971). davis c kahn w stewart g source-language increasing pseudo-teletype specialist"
+p33
+sI34
+S'currently interested in isolation of root of polynomial there is an old more recent material heindel l granting duplex-computer sprague aggregations'
+p34
+sI35
+S'probabilistic algorithms especially those dealing with algebraic and symbolic manipulation some examples rabiin probabilistic algorithm on finite field siam waztch probabilistic testing of polynomial identities siam rabin m regional dell synthesizers eshed'
+p35
+sI36
+S'fast algorithm for context-free language recognition or parsing ca631106 ca631105 ca631104 ca631103'
+p36
+sI37
+S'articles describing the relationship between data types and concurrency e g what is the type of a process when is a synchronization attempt between two processes type correct in a message-passing system is there any notion of the types of messages --i e any way to check that the sender of the message and the receiver are both treating the bit stream as some particular type 279 [1,2] maloney theory'
+p37
+sI38
+S"what is the type of a module i don't want the entire literature on abstract data types here but i'm not sure how to phrase this to avoid it i'm interested in questions about how one can check that a module matches contexts in which it is used bosarge succession straight 125-word"
+p38
+sI39
+S'what does type compatibility mean in languages that allow programmer defined types you might want to restrict this to extensible languages that allow definition of abstract data types or programmer-supplied definitions of operators like minimal-total-processing experimentally bringing q-d'
+p39
+sI40
+S'list all articles dealing with data types in the following languages that are referenced frequently in papers on the above languages e g catch any languages with interesting type structures that i might have missed experimentally bringing q-d kernel-like'
+p40
+sI41
+S'theory of distributed systems and databases subtopics of special interest include reliability and fault-tolerance in distributed systems atomicity distributed transactions synchronization algorithms resource allocation lower bounds and models for asynchronous parallel systems also theory of communicating processes and protocols p box 2158 yale station new haven conn 06520 bosarge succession straight 125-word'
+p41
+sI42
+S'computer performance evaluation techniques using pattern recognition and clustering la 70803 ca631103 ca631102 ca631101 goldfinger'
+p42
+sI43
+S'analysis and perception of shape by humans and computers shape descriptions shape recognition by computer two-dimensional shapes measures of circularity shape matching alphabetic founding digit statically'
+p43
+sI44
+S'texture analysis by computer digitized texture analysis texture synthesis perception of texture ca631102 ca631101 goldfinger saylor'
+p44
+sI45
+S'the use of operations research models to optimize information system performance this includes fine tuning decisions such as secondary index selection file reorganization and distributed databases hough ca680914 regional dell'
+p45
+sI46
+S'the application of fuzzy subset theory to clustering and information retrieval problems this includes performance evaluation and automatic indexing considerations aggregations ca730915 alphabetic founding'
+p46
+sI47
+S'the use of bayesian decision models to optimize information retrieval system performance this includes stopping rules to determine when a user should cease scanning the output of a retrieval search synthesizers eshed presser reconstructions'
+p47
+sI48
+S'the use of computer science principles e g data structures numerical methods in generating optimization e g linear programming algorithms this includes issues of the khachian russian ellipsoidal algorithm and complexity of such algorithms minimal-total-processing experimentally bringing q-d'
+p48
+sI49
+S'the role of information retrieval in knowledge based systems i e expert systems ca631101 goldfinger saylor setl'
+p49
+sI50
+S'parallel processors in information retrieval woods ca631109 ca631108 ca631106'
+p50
+sI51
+S'parallel processors and paging algorithms woods ca631109 ca631108 ca631106'
+p51
+sI52
+S'modelling and simulation in agricultural ecosystems ca631109 ca631108 ca631106 ca631105'
+p52
+sI53
+S'mathematical induction group theory integers modulo m probability binomial coefficients binomial theorem homomorphism morphism transitivity relations relation matrix syracuse university 313 link hall syracuse n 13210 hough ca680914 regional dell'
+p53
+sI54
+S'semantics of programming languages including abstract specifications of data types denotational semantics and proofs of correctness hoare a dijkstra e university of massachusetts amherst ma 01003 hough ca680914 regional dell'
+p54
+sI55
+S'anything dealing with star height of regular languages or regular expressions or regular events goldfinger saylor setl granting'
+p55
+sI56
+S'articles relation the algebraic theory of semigroups and monoids to the study of automata and regular languages granting duplex-computer sprague aggregations'
+p56
+sI57
+S'abstracts of articles j backus can programming be liberated from the von neumann style a functional style and its algebra of programs cacm 21 re millo r lipton a perlis letter to acm forum cacm 22 (1979), 629-630 backus j de millo r lipton r perlis a claudson bosarge succession straight'
+p57
+sI58
+S"algorithms or statistical packages for anova regression using least squares or generalized linear models system design capabilities statistical formula are of interest student's t test wilcoxon and sign tests multivariate and univariate components can be included bringing q-d kernel-like internally"
+p58
+sI59
+S'dictionary construction and accessing methods for fast retrieval of words or lexical items or morphologically related information hashing or indexing methods are usually applied to english spelling or natural language problems eshed presser reconstructions minimal-total-processing'
+p59
+sI60
+S'hardware and software relating to database management systems database packages back end computers special associative hardware with microcomputers attached to disk heads or things like rap relational or network codasyl or hierarchical models systems like system r ims adabas total etc reformatted phase-distorted wegner sturgis'
+p60
+sI61
+S'information retrieval articles by gerard salton or others about clustering bibliographic coupling use of citations or co-citations the vector space model boolean search methods using inverted files feedback etc salton g eshed presser reconstructions minimal-total-processing'
+p61
+sI62
+S"results relating parallel complexity theory both for pram's and uniform circuits ca631103 ca631102 ca631101 goldfinger"
+p62
+sI63
+S'algorithms for parallel computation and especially comparisons between parallel and sequential algorithms ca631102 ca631101 goldfinger saylor'
+p63
+sI64
+S"list all articles on el1 and ecl (el1 may be given as el/1; i don't remember how they did it aggregations ca730915 alphabetic founding"
+p64
+s.

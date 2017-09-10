@@ -1,0 +1,131 @@
+Query:24
+Document number:1696
+Rank:1
+Applications in Markov renewal programming
+and in the construction of variable length 
+codes are reviewed, and an updating procedure for dealing
+with certain sequences of <b>stochastic</b> matrices 
+is discussed.
+
+
+
+
+
+Document number:2570
+Rank:2
+A dynamic programming
+solution for the case in which execution 
+times are random variables is presented.
+
+
+
+
+
+Document number:2069
+Rank:3
+Comments on a Paper by Wallace and Mason
+
+CACM April, 1970
+
+Heess Jr., W. F.
+
+page-on-demand, demand paging, time-sharing multiprogramming,
+Markovian computer models, scheduling strategies,
+operating systems, memory management
+
+2.44 4.32 4.39 6.20 6.21
+
+CA700415 JB February 13, 1978  2:36 PM
+
+
+
+
+
+Document number:2080
+Rank:4
+A fundamental set of primitives allows the dynamic creation and control
+of a hierarchy of <b>processes</b> as well as the communication among them.
+
+
+
+
+
+Document number:2812
+Rank:5
+CACM December, 1976
+
+Nunamaker, J. F. Jr.
+Konsynski, B. R. Jr.
+Ho, T.
+Singer, C.
+
+computer-aided analysis, information systems, logical
+system design, problem statement language, 
+problem statement analyzer, physical system design,
+accurately defined systems, systems optimization 
+and design algorithm
+
+2.44 3.50 4.33 4.9 8.1
+
+CA761203 JB January 3, 1978  2:31 PM
+
+
+
+
+
+Document number:2297
+Rank:6
+It is pointed 
+out heuristically and demonstrated numerically that
+an increase is obtain able in the average execution 
+interval of the multiprogrammed load over that resulting
+from equal fixed partitioning of main memory.
+
+
+
+
+
+Document number:2195
+Rank:7
+A multistage decision process is then able to recognize
+in the input picture the optimal system of lines 
+according to the given figure of merit.
+
+
+
+
+
+Document number:1959
+Rank:8
+An Interrupt Based Organization for Management Information Systems
+
+A programming structure, language constructs, and a supervisory system 
+organization are proposed
+for the design and coding of large shared data base systems.
+
+
+
+
+
+Document number:1410
+Rank:9
+Interarrival Statistics for Time Sharing Systems
+
+The optimization of time-shared system performance
+requires the description of the <b>stochastic</b> 
+<b>processes</b> governing the user inputs and the program activity.
+
+
+
+
+
+Document number:2188
+Rank:10
+The parameters of the model are functions
+of the capabilities of the graphics hardware 
+and of the computational requirements of the graphics application.
+
+
+
+
+

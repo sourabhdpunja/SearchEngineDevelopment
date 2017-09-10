@@ -1,0 +1,116 @@
+Query:61
+Document number:1457
+Rank:1
+Data Manipulation and Programming Problems
+in Automatic <b>Information</b> Retrieval
+
+Automatic information <b>retrieval</b> programs require
+the manipulation of a variety of different 
+data structures, including linear text, sparse matrices,
+and tree or list structures.
+
+
+
+
+
+Document number:2289
+Rank:2
+A major challenge
+in the effective use of cellular arrays for the 
+solution of graph problems is the determination of algorithms
+that exploit the possibilities for parallelism, 
+especially for problems whose solutions appear to be inherently
+serial.
+
+
+
+
+
+Document number:1236
+Rank:3
+This feature is used in the <b>retrieval</b>
+process by leaving the exact sequence of 
+operations initially unspecified, and adapting the
+<b>search</b> strategy to the needs of individual users.
+
+
+
+
+
+Document number:2470
+Rank:4
+The technique is contrasted 
+with the use of the paradoxical combinator, Y.
+
+
+
+
+
+Document number:3148
+Rank:5
+This is part of an ambitious
+program of development in advanced programming languages, and relations
+with other aspects of the project are also discussed.
+
+
+
+
+
+Document number:1514
+Rank:6
+The expected gain and its probability
+distribution are derived as a function 
+of: (1) the prior proportion of omitted terms, and (2) the
+coefficient of separation between two distributions 
+corresponding to values of an adjustment statistic.
+
+
+
+
+
+Document number:1927
+Rank:7
+The subject area is 
+first briefly described, followed by a listing of some desirable
+graduate-level courses.
+
+
+
+
+
+Document number:2160
+Rank:8
+Thus, for example, the structure for <b>retrieval</b> 
+on the basis of ranges of values of a given attribute would
+be very different from one where only <b>retrieval</b> 
+on the basis of a single value is permitted.
+
+
+
+
+
+Document number:2283
+Rank:9
+Pictorial 
+results produced by each of the algorithms are presented
+and the relative performances of the algorithms 
+are compared.
+
+
+
+
+
+Document number:2307
+Rank:10
+Dynamic Document Processing
+
+The current role of computers in automatic
+document processing is briefly outlined, and some 
+reasons are given why the early promise of library automation
+and of the mechanization of documentation 
+processes has not been fulfilled.
+
+
+
+
+

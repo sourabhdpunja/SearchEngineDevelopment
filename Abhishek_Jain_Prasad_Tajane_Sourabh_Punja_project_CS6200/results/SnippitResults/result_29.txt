@@ -1,0 +1,114 @@
+Query:29
+Document number:1538
+Rank:1
+A.
+
+CA670907b JB March 23, 1978  2:34 PM
+
+
+
+
+
+Document number:2616
+Rank:2
+Extensions to the theory of computation 
+and computability are suggested.
+
+
+
+
+
+Document number:1094
+Rank:3
+Prime Twins (Algorithm 223)
+
+CACM April, 1964
+
+Shimrat, M.
+
+CA640414 JB March 10, 1978  1:13 AM
+
+
+
+
+
+Document number:2950
+Rank:4
+Various classes of scheduling algorithms
+are defined and related to existing algorithms.
+
+
+
+
+
+Document number:2570
+Rank:5
+It is shown that 
+different algorithms suggested in the literature vary significantly
+in execution time and that the B-schedule 
+of Coffman and Graham is near-optimal.
+
+
+
+
+
+Document number:1747
+Rank:6
+Three possible criteria of this
+kind are input recordability, input specifiability, 
+and asynchronous reproducibility of output.
+
+
+
+
+
+Document number:2812
+Rank:7
+Computer-aided 
+analysis consists of a set of procedures and computer
+programs specifically designed to aid in the process 
+of applications software design, computer selection
+and performance evaluation.
+
+
+
+
+
+Document number:1959
+Rank:8
+An Interrupt Based Organization for Management Information Systems
+
+A programming structure, language constructs, and a supervisory system 
+organization are proposed
+for the design and coding of large shared data base systems.
+
+
+
+
+
+Document number:1420
+Rank:9
+A New Uniform Pseudorandom Number Generator
+
+A new multiplicative congruential pseudorandom
+<b>number</b> generator is discussed, in which the 
+modulus is the largest <b>prime</b> within accumulator capacity
+and the multiplier is a primitive root of that 
+<b>prime</b>.
+
+
+
+
+
+Document number:2949
+Rank:10
+The Topology
+Information Protocol that was implemented on the 
+MERIT Computer Network is presented and explained; this
+protocol is quite general and could be implemented 
+on any computer network.
+
+
+
+
+

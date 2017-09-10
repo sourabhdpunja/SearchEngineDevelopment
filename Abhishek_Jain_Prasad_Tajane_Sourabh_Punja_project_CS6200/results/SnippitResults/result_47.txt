@@ -1,0 +1,122 @@
+Query:47
+Document number:2289
+Rank:1
+Cellular Arrays for the Solution of Graph Problems
+
+A cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits of
+memory and a small amount of combinational logic, 
+and communicates mainly with its immediate neighbors
+in the array.
+
+
+
+
+
+Document number:2283
+Rank:2
+<b>The</b> approach to the
+development of each algorithm is the same.
+
+
+
+
+
+Document number:2956
+Rank:3
+Among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a data type, the need for
+a simple notation for allowing types of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.
+
+
+
+
+
+Document number:2630
+Rank:4
+On Computing Sets of Shortest Paths in a Graph
+
+Two algorithms are presented that construct
+the k shortest paths between every pair of vertices 
+in a directed graph.
+
+
+
+
+
+Document number:3148
+Rank:5
+It appears to be useful for
+programming a wide range of tasks.
+
+
+
+
+
+Document number:2138
+Rank:6
+Prime design goals of the design are the
+ability to produce highly efficient object code, 
+to allow access to all relevant hardware features of
+the host machine, and to provide a rational means 
+by which to cope with the evolutionary nature of systems
+programs.
+
+
+
+
+
+Document number:2829
+Rank:7
+<b>The</b> amount of light coming from a given direction is
+modeled in a similar manner to the texture mapping 
+and then added to the intensity obtained from the texture
+mapping.
+
+
+
+
+
+Document number:3082
+Rank:8
+Time, Clocks, and the Ordering of Events in a Distributed System
+
+<b>The</b> concept of one event happening before
+another in a distributed <b>system</b> is examined, and
+is shown to define a partial ordering of the events.
+
+
+
+
+
+Document number:2932
+Rank:9
+Complexity of Computations
+
+<b>The</b> framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.
+
+
+
+
+
+Document number:3124
+Rank:10
+One of the approaches is used to define an
+APL array to be a recursive data structure equivalent to a tree structure
+in which all data is stored at the leaves as homogeneous
+arrays of numbers and characters.
+
+
+
+
+

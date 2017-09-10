@@ -1,0 +1,124 @@
+Query:10
+Document number:2256
+Rank:1
+Further Comments on Dijkstra's Concurrent Programming Control Problem
+
+CACM November, 1972
+
+Eisenberg, M. A.
+McGuire, M. R.
+
+critical section, concurrent programming control, multiprocessing
+
+4.32
+
+CA721113 JB January 27, 1978  1:24 PM
+
+
+
+
+
+Document number:1158
+Rank:2
+Program Structures for <b>Parallel</b> Processing
+
+Constructs for organizing and explicating <b>parallel</b>
+program segments are discussed as extensions 
+to ALGOL 60.
+
+
+
+
+
+Document number:1747
+Rank:3
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+
+The designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.
+
+
+
+
+
+Document number:2358
+Rank:4
+Information is stored
+in segments each of which is potentially sharable 
+and carries its own independent attributes of size and access
+privilege.
+
+
+
+
+
+Document number:2256
+Rank:5
+Further Comments on Dijkstra's Concurrent Programming Control Problem
+
+CACM November, 1972
+
+Eisenberg, M. A.
+McGuire, M. R.
+
+critical section, concurrent programming control, multiprocessing
+
+4.32
+
+CA721113 JB January 27, 1978  1:24 PM
+
+
+
+
+
+Document number:1928
+Rank:6
+Certain aspects 
+of the techniques described may be used for the simulation
+of network structures other than digital networks.
+
+
+
+
+
+Document number:2379
+Rank:7
+The system is defined by
+a combination of microprograms and software.
+
+
+
+
+
+Document number:3128
+Rank:8
+An implementation of eventcount
+s and sequencers in a system with shared memory is described.
+
+
+
+
+
+Document number:2950
+Rank:9
+The abstract model provides
+a framework for implementing flexible schedulers 
+in real operating systems.
+
+
+
+
+
+Document number:2342
+Rank:10
+Solutions have been given
+for the mutual exclusion problem and associated 
+subproblems, in the form of <b>parallel</b> programs, and informal
+proofs of correctness have been given for 
+these solutions.
+
+
+
+
+

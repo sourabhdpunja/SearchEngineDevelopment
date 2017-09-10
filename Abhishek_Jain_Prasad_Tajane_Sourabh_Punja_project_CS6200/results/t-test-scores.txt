@@ -1,0 +1,108 @@
+
+Baseline: BM25
+Alternative System: BM25_feedback
+---------------------------------
+P Value: 0.271213494857
+T value: -0.612476570978
+Null hypothesis cannot be rejected.
+
+
+
+Baseline: BM25
+Alternative System: BM25_stoplist
+---------------------------------
+P Value: 0.337308302771
+T value: -0.421786586889
+Null hypothesis cannot be rejected.
+
+
+
+Baseline: BM25
+Alternative System: Lucene_feedback
+---------------------------------
+P Value: 0.0694847192324
+T value: -1.49860908899
+Alternative System is better than Baseline system. Null hyposthesis can be rejected in this case.
+
+
+
+Baseline: BM25
+Alternative System: Lucene_stoplist
+---------------------------------
+P Value: 0.31081822914
+T value: -0.495977152175
+Null hypothesis cannot be rejected.
+
+
+
+Baseline: Lucene
+Alternative System: BM25_feedback
+---------------------------------
+P Value: 0.277212425388
+T value: -0.594322420969
+Null hypothesis cannot be rejected.
+
+
+
+Baseline: Lucene
+Alternative System: BM25_stoplist
+---------------------------------
+P Value: 0.33555913978
+T value: -0.426609193479
+Null hypothesis cannot be rejected.
+
+
+
+Baseline: Lucene
+Alternative System: Lucene_feedback
+---------------------------------
+P Value: 0.0851781850082
+T value: -1.38691190454
+Alternative System is better than Baseline system. Null hyposthesis can be rejected in this case.
+
+
+
+Baseline: Lucene
+Alternative System: Lucene_stoplist
+---------------------------------
+P Value: 0.309778428727
+T value: -0.498943664328
+Null hypothesis cannot be rejected.
+
+
+
+Baseline: tf-idf
+Alternative System: BM25_feedback
+---------------------------------
+P Value: 0.0482350858384
+T value: -1.68740988645
+Alternative System is better than Baseline system. Null hyposthesis can be rejected in this case.
+
+
+
+Baseline: tf-idf
+Alternative System: BM25_stoplist
+---------------------------------
+P Value: 0.0711160035589
+T value: -1.48613081212
+Alternative System is better than Baseline system. Null hyposthesis can be rejected in this case.
+
+
+
+Baseline: tf-idf
+Alternative System: Lucene_feedback
+---------------------------------
+P Value: 0.00639192517022
+T value: -2.56282133171
+Alternative System is better than Baseline system. Null hyposthesis can be rejected in this case.
+
+
+
+Baseline: tf-idf
+Alternative System: Lucene_stoplist
+---------------------------------
+P Value: 0.0840541546819
+T value: -1.39435531878
+Alternative System is better than Baseline system. Null hyposthesis can be rejected in this case.
+
+

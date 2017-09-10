@@ -1,0 +1,120 @@
+Query:7
+Document number:1338
+Rank:1
+Additional Comments on a Problem in Concurrent Progamming Control
+
+CACM December, 1966
+
+Knuth, D. E.
+
+CA661211 JB March 30, 1978  9:12 AM
+
+
+
+
+
+Document number:0276
+Rank:2
+Program Organization and Record Keeping for Dynamic Storage Allocation
+
+The material presented in this paper is part
+of the design plan of the core allocation portion 
+of the ASCII<b>-</b>MATIC Programming System.
+
+
+
+
+
+Document number:1877
+Rank:3
+Algorithms 
+are presented which examine a request in the light of
+the current allocation of resources and determine 
+whether or not the granting of the request will introduce
+the possibility of a deadlock.
+
+
+
+
+
+Document number:3128
+Rank:4
+Synchronization with Eventcounts and Sequencers
+
+Synchronization of <b>concurrent</b> <b>processes</b> requires controlling the relative 
+ordering of events in the <b>processes</b>.
+
+
+
+
+
+Document number:1534
+Rank:5
+The <b>techniques</b> found useful in the development
+of DAD are given, and an assessment is 
+made of the validity of various design decisions.
+
+
+
+
+
+Document number:3078
+Rank:6
+Since many physical
+systems can be modeled by Markov and semi<b>-</b>Markov 
+<b>processes</b>, the potential range of application of these <b>techniques</b>
+is much wider than the problem of availability 
+analyzed here.
+
+
+
+
+
+Document number:1829
+Rank:7
+The structure 
+of the monitor program and the human and program interfaces
+are described.
+
+
+
+
+
+Document number:1087
+Rank:8
+Problems in Automatic Abstracting
+
+A variety of problems concerning the design
+and operation of an automatic abstracting system 
+are discussed.
+
+
+
+
+
+Document number:1234
+Rank:9
+A technique of  simulation at 
+compile time of the use of a conventional run<b>-</b>time stack
+enables the generation of code for expressions 
+which minimizes stores, fetches and stack<b>-</b>pointer motion
+at run time, while properly trating recursion 
+and side effects of procedures.
+
+
+
+
+
+Document number:2228
+Rank:10
+Comments on Prevention of System Deadlocks
+
+Habermann's method of deadlock prevention is
+discussed, where deadlock is defined as a system 
+state from which resource allocations to certain <b>processes</b>
+are not possible.
+
+
+
+
+

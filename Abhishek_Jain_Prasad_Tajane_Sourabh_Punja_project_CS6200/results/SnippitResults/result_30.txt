@@ -1,0 +1,145 @@
+Query:30
+Document number:1926
+Rank:1
+CACM March, 1969
+
+Berns, G. M.
+
+<b>text</b> processing, indexing, printing, documentation,
+<b>text</b> editing, <b>formatting</b>, frequency dictionary, 
+right justification, vocabulary
+
+3.74 3.75 3.9
+
+CA690301 JB February 20, 1978 9:45 AM
+
+
+
+
+
+Document number:2616
+Rank:2
+CACM August, 1974
+
+Cavouras, J. C.
+
+decision tables, program optimization, debugging,
+semantics, theory of programming, systems analysis
+
+4.19 4.42 4.43 5.21 5.29
+
+CA740808 JB January 17, 1978  9:43 AM
+
+
+
+
+
+Document number:2786
+Rank:3
+The system 
+interfaces directly with <b>text</b> <b>formatting</b> programs, so
+mixtures of <b>text</b> and mathematics may be handled 
+simply.
+
+
+
+
+
+Document number:2917
+Rank:4
+SITAR: An Interactive Text Processing
+System for Small Computers (Corrigendum)
+
+CACM October, 1977
+
+Schneider, B. R. Jr.
+Watts, R. M.
+
+CA771009 JB December 28, 1977  5:58 AM
+
+
+
+
+
+Document number:2570
+Rank:5
+It is shown that 
+different algorithms suggested in the literature vary significantly
+in execution time and that the B-schedule 
+of Coffman and Graham is near-optimal.
+
+
+
+
+
+Document number:1747
+Rank:6
+Three possible criteria of this
+kind are input recordability, input specifiability, 
+and asynchronous reproducibility of output.
+
+
+
+
+
+Document number:2812
+Rank:7
+CACM December, 1976
+
+Nunamaker, J. F. Jr.
+Konsynski, B. R. Jr.
+Ho, T.
+Singer, C.
+
+computer-aided analysis, information systems, logical
+system design, problem statement language, 
+problem statement analyzer, physical system design,
+accurately defined systems, systems optimization 
+and design algorithm
+
+2.44 3.50 4.33 4.9 8.1
+
+CA761203 JB January 3, 1978  2:31 PM
+
+
+
+
+
+Document number:2630
+Rank:8
+CACM June, 1974
+
+Minieka, E.
+
+graph, network, shortest path, algorithm
+
+5.32
+
+CA740616 JB January 17, 1978  1:55 PM
+
+
+
+
+
+Document number:1959
+Rank:9
+DPL, a programming language and supervisory
+system in which these concepts are implemented, is used to illustrated
+the new organization which is proposed for management information systems.
+
+
+
+
+
+Document number:2949
+Rank:10
+The Topology
+Information Protocol that was implemented on the 
+MERIT Computer Network is presented and explained; this
+protocol is quite general and could be implemented 
+on any computer network.
+
+
+
+
+
